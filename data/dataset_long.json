@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Dear Support, I’ve been experiencing an issue with the mobile app for the past three days. Every time I try to log in, the app crashes immediately. I’ve already tried reinstalling it, clearing the cache, and restarting my device, but the issue persists. I’m using an iPhone 14 running iOS 17.2. I urgently need access to my account because I manage multiple team projects from the dashboard. Can you please look into this and let me know what steps I should take? Thanks, Jordan.",
+    "label": "Technical"
+  },
+  {
+    "text": "Hello, I recently upgraded to the Enterprise Plan, but I noticed that I was charged for both the Standard and the Enterprise plans in the same billing cycle. This seems like a billing error. I also want to ensure that the new invoice includes the correct VAT number for my company’s records. Please update the invoice and confirm if the extra charge will be refunded. Thank you. - Morgan",
+    "label": "Billing"
+  },
+  {
+    "text": "Hey team, we’re planning a major rollout for our SaaS integration and are evaluating tools like yours. I’d love to understand more about your bulk pricing options for teams with over 500 users, what onboarding support looks like, and how customization works for large-scale deployments. Do you offer dedicated account managers or implementation engineers? If you could send over a proposal or book a call this week, that would be awesome. Cheers, Danielle.",
+    "label": "Sales"
+  },
+  {
+    "text": "Hi there, I noticed that your Terms of Service were updated last week, and I’d like clarification on a few points. Specifically, I’m wondering about data retention policies and third-party data sharing practices. Where can I find the archive of previous privacy policies? Also, do you have a DPA (Data Processing Agreement) template available for review? Thanks for your help! – Sam.",
+    "label": "General"
+  },
+  {
+    "text": "To whom it may concern, I've attempted to reset my password three times in the last 24 hours, and each time I receive a confirmation email with a broken link. It leads to a 404 page. I’ve tried it in Chrome, Safari, and Firefox. Can you please provide a valid password reset link or manually reset it on your end? Also, could you investigate whether this is affecting other users? It’s urgent as I’m locked out of my main workspace. Regards, Priya.",
+    "label": "Technical"
+  }
+]

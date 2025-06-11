@@ -21,4 +21,7 @@ dependencies = [
     "pypdf>=5.6.0",
     "chromadb>=1.0.12",
     "pandas>=2.3.0",
+    "scikit-learn>=1.7.0",
+    "faiss-cpu>=1.11.0",
+    "streamlit>=1.45.1",
 ]

@@ -100,7 +100,7 @@ async def classify(req: QueryRequest):
     response = chain.invoke({"text": req.text})
     return {"category": response}
 
-
+"""
 @app.get("/evaluate")
 def evaluate():
     y_true = []
@@ -114,6 +114,22 @@ def evaluate():
 
     report = classification_report(y_true, y_pred, output_dict=True)
     return report
+"""
+
+@app.get("/evaluate")
+def evaluate():
+    y_true = []
+    y_pred = []
+
+    for item in eval_data:
+        gold = item["label"]
+        pred = chain.invoke({"text": item["text"]})
+        y_true.append(gold)
+        y_pred.append(pred["category"])  # <- FIX HERE
+
+    report = classification_report(y_true, y_pred, output_dict=True)
+    return report
+
 
 
 
