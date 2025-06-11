@@ -1,0 +1,42 @@
+[
+  {
+    "text": "I need help updating my credit card information.",
+    "label": "Billing"
+  },
+  {
+    "text": "The mobile app crashes when I try to log in.",
+    "label": "Technical"
+  },
+  {
+    "text": "Do you offer any bulk discounts for enterprise plans?",
+    "label": "Sales"
+  },
+  {
+    "text": "How can I reset my account password?",
+    "label": "Technical"
+  },
+  {
+    "text": "Where can I find your privacy policy?",
+    "label": "General"
+  },
+  {
+    "text": "I was charged twice this month — please explain.",
+    "label": "Billing"
+  },
+  {
+    "text": "Can I talk to a sales representative about pricing tiers?",
+    "label": "Sales"
+  },
+  {
+    "text": "Just wanted to say thanks for the great customer service!",
+    "label": "General"
+  },
+  {
+    "text": "When will your support team be available during the holidays?",
+    "label": "General"
+  },
+  {
+    "text": "The invoice I received is missing line item details.",
+    "label": "Billing"
+  }
+]
