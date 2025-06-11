@@ -1,0 +1,11 @@
+product,category,price,stock,region
+Laptop,Electronics,999.99,50,North America
+Tablet,Electronics,499.99,80,Europe
+Desk Chair,Furniture,199.99,30,Asia
+Smartphone,Electronics,799.49,120,North America
+Bookshelf,Furniture,149.95,25,Europe
+Monitor,Electronics,249.89,60,Asia
+Coffee Table,Furniture,89.50,40,South America
+Headphones,Electronics,129.99,200,Australia
+Office Desk,Furniture,299.99,15,Africa
+Camera,Electronics,549.00,45,Europe
