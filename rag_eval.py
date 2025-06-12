@@ -106,8 +106,8 @@ examples = [
 print("🔍 Generating answers via RAG...\n")
 predictions = []
 for ex in tqdm(examples):
-    result = rag_chain.run(ex["query"])
-    predictions.append({"output": result.strip()})
+    result = rag_chain.invoke({"query": ex["query"]})
+    predictions.append({"output": result["result"].strip()})
 
 # --- Evaluate predictions ---
 eval_chain = QAEvalChain.from_llm(llm)
