@@ -15,7 +15,17 @@ load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Load PDF document
-pdf_path = "path/to/starfish_document.pdf"  # Replace with your file path
+#pdf_path = "path/to/starfish_document.pdf"  # Replace with your file path
+
+# --- Load PDF data path ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+pdf_path = os.getenv("CSV_PATH", os.path.join(BASE_DIR,  "starfish.pdf")) 
+
+
+# --- Validate PDF file existence ---
+if not os.path.exists(pdf_path):
+    raise FileNotFoundError(f"pdf file not found at {pdf_path}")
+
 loader = PyPDFLoader(pdf_path)
 docs = loader.load()
 

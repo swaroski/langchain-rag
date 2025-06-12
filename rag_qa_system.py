@@ -17,20 +17,25 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-# Load CSV data
-csv_path = "path/to/sample_data.csv"  # update this
-df = pd.read_csv(csv_path)
+# --- Load CSV data path ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+csv_path = os.getenv("CSV_PATH", os.path.join(BASE_DIR, "data", "data.csv"))
 
-# Convert rows to LangChain Documents
-documents = []
-for _, row in df.iterrows():
-    content = ", ".join([f"{key}: {value}" for key, value in row.items()])
-    metadata = {"row_index": row.name}
-    documents.append(Document(page_content=content, metadata=metadata))
+# --- Validate CSV file existence ---
+if not os.path.exists(csv_path):
+    raise FileNotFoundError(f"CSV file not found at {csv_path}")
+
+# Load CSV into Dataframe 
+df = pd.read_csv(csv_path) 
+
+# Combine all columns into one for embedding  
+df["combined"] = df.astype(str).agg
+
+
 
 # Optional: split long rows
 splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-splits = splitter.split_documents(documents)
+splits = splitter.split_documents(docs)
 
 # Embeddings + Vectorstore
 embeddings = OpenAIEmbeddings()

@@ -1,0 +1,7 @@
+Question,Ground Truth,GPT Answer,Evaluation,Correct
+What is the total revenue in North America?,110000,"The total revenue in North America is 142,483.92.",INCORRECT,False
+Which product had the highest sales?,Widget B,Gadget B,INCORRECT,False
+What was the profit of Gadget C?,9000,Insufficient data,INCORRECT,False
+What is the revenue on 2024-09-17?,45000,Insufficient data,INCORRECT,False
+Which product was sold in Asia?,Gadget C,"Gadget A, Gadget I",INCORRECT,False
+What was the revenue of Widget Z?,Insufficient data,Insufficient data,CORRECT,True

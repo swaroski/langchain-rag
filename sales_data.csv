@@ -1,0 +1,1001 @@
+product,revenue,sales,profits,description,region,date
+Gadget G,63383.59,84,13912.55,Compact device for consumer electronics,North America,2024-08-29
+Widget J,11143.69,66,2395.13,Eco-friendly product for sustainable markets,Australia,2024-04-14
+Gadget G,77067.38,82,19209.97,Portable gadget with long battery life,North America,2024-02-08
+Gadget G,87149.94,65,20575.98,Premium gadget with advanced features,North America,2024-12-08
+Widget D,29530.53,65,7068.92,Innovative gadget with AI integration,Europe,2024-01-14
+Widget C,29303.99,117,8420.12,High-performance device for enterprise use,Europe,2024-12-24
+Gadget G,52656.89,113,19034.89,Eco-friendly product for sustainable markets,Australia,2024-08-03
+Widget G,98542.0,97,21317.74,Eco-friendly product for sustainable markets,North America,2024-04-17
+Widget F,66684.18,97,13464.89,Reliable widget for everyday applications,Asia,2024-06-18
+Widget I,99931.13,81,35315.37,Premium gadget with advanced features,South America,2024-04-14
+Widget A,80231.98,157,16174.67,Eco-friendly product for sustainable markets,Europe,2024-12-08
+Gadget G,83982.59,193,19842.4,Durable widget for heavy machinery,North America,2024-10-30
+Gadget E,25519.69,123,10183.55,Compact device for consumer electronics,Europe,2024-01-14
+Gadget G,30365.78,92,11253.25,High-quality widget for industrial use,South America,2024-06-10
+Gadget E,37151.81,52,13613.23,Compact device for consumer electronics,Australia,2024-09-08
+Widget G,79602.8,156,20464.36,High-quality widget for industrial use,North America,2024-07-22
+Gadget J,51174.76,87,12249.34,Premium gadget with advanced features,Europe,2024-11-10
+Widget G,59495.01,74,15602.18,Premium gadget with advanced features,North America,2024-04-28
+Gadget H,47942.64,145,13675.5,Portable gadget with long battery life,South America,2024-10-05
+Widget G,86796.0,92,27946.91,Durable widget for heavy machinery,Asia,2024-02-04
+Gadget J,61760.45,105,19387.05,Innovative gadget with AI integration,North America,2024-09-10
+Gadget A,44681.01,66,11685.65,High-quality widget for industrial use,South America,2024-03-10
+Gadget E,47472.48,125,13631.26,Eco-friendly product for sustainable markets,Europe,2024-08-15
+Gadget B,81515.14,58,30612.71,High-quality widget for industrial use,Asia,2024-04-01
+Gadget C,16992.01,109,6329.11,Innovative gadget with AI integration,South America,2024-09-17
+Widget J,12831.13,87,4257.41,Cost-effective solution for small businesses,Asia,2024-09-01
+Gadget I,34400.45,184,12269.17,Portable gadget with long battery life,North America,2024-03-11
+Gadget I,86834.79,69,34598.53,High-quality widget for industrial use,South America,2024-12-23
+Gadget J,26435.19,175,5633.82,Innovative gadget with AI integration,Europe,2024-11-03
+Widget I,18234.21,59,7228.42,Portable gadget with long battery life,Australia,2024-11-15
+Widget A,33406.5,65,8835.94,Premium gadget with advanced features,South America,2024-02-05
+Gadget H,56622.49,138,21038.33,Compact device for consumer electronics,Europe,2024-01-29
+Gadget D,76988.64,88,26587.66,Portable gadget with long battery life,Europe,2024-10-11
+Widget J,79799.24,110,20435.27,Cost-effective solution for small businesses,South America,2024-03-02
+Widget E,49840.2,110,13306.81,Reliable widget for everyday applications,South America,2024-11-11
+Gadget F,75470.92,107,24419.83,Compact device for consumer electronics,Australia,2024-09-03
+Gadget F,33067.0,180,9654.69,High-performance device for enterprise use,Australia,2024-06-12
+Widget B,89819.63,81,27148.73,Portable gadget with long battery life,Europe,2024-11-19
+Gadget C,30264.14,99,9535.77,Innovative gadget with AI integration,Europe,2024-01-22
+Widget F,30506.61,98,8538.06,Durable widget for heavy machinery,Australia,2024-06-02
+Gadget D,63398.25,75,13975.26,Durable widget for heavy machinery,North America,2024-09-03
+Widget F,13574.92,184,3240.25,High-quality widget for industrial use,Australia,2024-02-20
+Widget H,71825.09,180,27269.93,Innovative gadget with AI integration,Asia,2024-10-13
+Gadget C,12539.78,119,3619.42,Reliable widget for everyday applications,North America,2024-01-17
+Widget J,66904.8,67,25040.87,High-quality widget for industrial use,North America,2024-06-19
+Widget G,43541.05,188,15715.88,Portable gadget with long battery life,North America,2024-01-01
+Gadget J,93914.27,59,33388.61,Compact device for consumer electronics,Asia,2024-02-07
+Gadget D,52550.88,108,16024.21,Eco-friendly product for sustainable markets,South America,2024-01-13
+Gadget G,86129.33,74,20899.2,Portable gadget with long battery life,Asia,2024-05-13
+Widget E,29986.39,54,6492.68,Durable widget for heavy machinery,North America,2024-12-13
+Widget H,86581.35,87,32057.11,High-performance device for enterprise use,Asia,2024-05-25
+Widget B,76337.18,189,18095.84,Portable gadget with long battery life,North America,2024-02-05
+Gadget B,52659.79,183,14759.65,High-quality widget for industrial use,Asia,2024-07-21
+Gadget E,83660.24,78,22780.87,Eco-friendly product for sustainable markets,Asia,2024-10-08
+Gadget A,47957.68,200,17131.83,Compact device for consumer electronics,Asia,2024-12-14
+Widget A,96492.84,84,19928.74,High-performance device for enterprise use,Asia,2024-03-14
+Widget I,92241.86,50,25100.34,Premium gadget with advanced features,Asia,2024-07-01
+Gadget E,36154.5,134,11383.52,Innovative gadget with AI integration,Europe,2024-02-21
+Gadget F,44761.93,161,10030.1,Innovative gadget with AI integration,Asia,2024-10-07
+Gadget D,50207.32,175,17837.83,Compact device for consumer electronics,South America,2024-08-08
+Widget J,28977.27,110,6150.72,Cost-effective solution for small businesses,Europe,2024-08-22
+Widget E,14380.89,152,3394.59,Durable widget for heavy machinery,North America,2024-08-31
+Gadget H,97848.56,182,29697.93,Eco-friendly product for sustainable markets,South America,2024-04-09
+Widget E,31377.42,84,9303.06,Premium gadget with advanced features,Asia,2024-08-23
+Widget F,78250.57,184,29331.88,High-quality widget for industrial use,Asia,2024-10-26
+Gadget E,47142.23,81,12706.14,Cost-effective solution for small businesses,Australia,2024-02-15
+Gadget B,89929.25,135,23078.24,Innovative gadget with AI integration,Asia,2024-09-14
+Gadget E,74408.84,174,17017.39,Reliable widget for everyday applications,Asia,2024-03-23
+Widget J,23002.72,173,5244.79,Portable gadget with long battery life,Europe,2024-04-11
+Gadget J,27798.6,129,9355.8,Compact device for consumer electronics,Australia,2024-02-06
+Gadget A,84160.66,180,23269.5,Reliable widget for everyday applications,Asia,2024-04-26
+Gadget C,54971.22,122,16431.47,Compact device for consumer electronics,South America,2024-11-14
+Widget B,46983.92,166,10837.53,Durable widget for heavy machinery,Asia,2024-02-01
+Widget F,90970.45,65,22831.85,High-performance device for enterprise use,Europe,2024-06-01
+Gadget F,91313.56,188,21084.16,Compact device for consumer electronics,Australia,2024-10-05
+Widget C,23608.13,124,6946.17,Reliable widget for everyday applications,Asia,2024-10-19
+Gadget J,27480.3,193,10165.56,High-performance device for enterprise use,Australia,2024-12-24
+Gadget I,46461.22,107,18395.15,High-quality widget for industrial use,Asia,2024-07-14
+Gadget A,85804.84,54,17416.46,Premium gadget with advanced features,Asia,2024-12-31
+Gadget D,17594.62,163,5583.85,Reliable widget for everyday applications,Australia,2024-08-15
+Gadget D,76696.03,164,24199.67,Durable widget for heavy machinery,Asia,2024-08-17
+Widget A,77506.69,93,20845.23,Innovative gadget with AI integration,Asia,2024-11-29
+Widget A,53517.98,98,12924.89,High-performance device for enterprise use,North America,2024-04-20
+Gadget I,42916.66,168,11795.74,Eco-friendly product for sustainable markets,Europe,2024-10-08
+Gadget B,38520.54,147,9189.24,Eco-friendly product for sustainable markets,Europe,2024-10-10
+Widget I,77775.51,112,22566.96,High-quality widget for industrial use,Europe,2024-11-10
+Gadget J,25214.39,70,6172.05,Reliable widget for everyday applications,South America,2024-09-10
+Gadget G,21039.98,130,6443.02,Reliable widget for everyday applications,North America,2024-08-24
+Gadget H,58482.71,65,21031.21,Eco-friendly product for sustainable markets,Asia,2024-01-28
+Widget I,35224.69,53,8113.7,Portable gadget with long battery life,South America,2024-07-22
+Gadget C,64593.57,188,18856.98,Reliable widget for everyday applications,Europe,2024-03-07
+Gadget E,73390.95,184,17265.92,Eco-friendly product for sustainable markets,Australia,2024-08-25
+Gadget H,43940.05,121,11933.05,High-performance device for enterprise use,South America,2024-06-16
+Widget I,61777.92,156,13971.16,Durable widget for heavy machinery,Australia,2024-01-11
+Gadget C,27166.91,141,5681.99,High-quality widget for industrial use,Asia,2024-02-16
+Gadget H,70468.25,66,21545.78,Premium gadget with advanced features,Asia,2024-07-09
+Gadget H,15736.19,55,5360.56,Portable gadget with long battery life,Asia,2024-10-07
+Gadget D,55602.6,154,19506.28,Cost-effective solution for small businesses,South America,2024-05-18
+Gadget B,16085.16,51,5969.06,Eco-friendly product for sustainable markets,South America,2024-07-15
+Widget C,87076.65,108,21630.11,Innovative gadget with AI integration,Australia,2024-04-06
+Gadget D,85969.06,153,23444.79,Durable widget for heavy machinery,North America,2024-12-23
+Gadget B,65560.72,61,25396.85,Durable widget for heavy machinery,Australia,2024-03-14
+Gadget I,65064.87,126,13810.62,Compact device for consumer electronics,Europe,2024-01-15
+Widget B,99238.87,199,33050.59,High-performance device for enterprise use,South America,2024-07-27
+Gadget B,89649.77,86,34095.69,Reliable widget for everyday applications,Asia,2024-11-22
+Widget G,84885.59,126,30528.44,High-quality widget for industrial use,Europe,2024-05-27
+Widget J,17358.92,133,3970.24,Cost-effective solution for small businesses,South America,2024-03-24
+Gadget H,35997.14,125,13155.46,Premium gadget with advanced features,North America,2024-04-25
+Gadget B,97344.27,132,20870.63,High-quality widget for industrial use,North America,2024-10-01
+Gadget H,46060.55,181,16158.43,Compact device for consumer electronics,Australia,2024-02-21
+Widget C,41286.24,92,12956.2,Compact device for consumer electronics,South America,2024-05-25
+Gadget G,96972.89,104,23499.2,Premium gadget with advanced features,Asia,2024-08-01
+Gadget F,91076.4,66,34418.31,Eco-friendly product for sustainable markets,North America,2024-02-17
+Gadget H,32436.9,64,6625.98,Eco-friendly product for sustainable markets,North America,2024-08-25
+Widget G,18321.39,58,4702.55,Innovative gadget with AI integration,Asia,2024-01-26
+Gadget C,17465.85,106,5111.37,Compact device for consumer electronics,Australia,2024-03-01
+Gadget E,61431.3,62,21627.09,Durable widget for heavy machinery,South America,2024-11-09
+Widget I,36305.53,159,8155.2,Durable widget for heavy machinery,Australia,2024-12-02
+Widget J,71797.55,144,14420.33,Cost-effective solution for small businesses,Australia,2024-04-21
+Gadget A,76372.63,71,20841.06,High-performance device for enterprise use,Europe,2024-06-25
+Gadget C,83997.6,100,22183.84,Reliable widget for everyday applications,Australia,2024-06-11
+Widget H,52004.93,175,12273.83,Cost-effective solution for small businesses,Europe,2024-10-14
+Gadget D,83395.5,54,27384.48,Compact device for consumer electronics,Australia,2024-02-17
+Gadget G,53992.14,195,12691.5,Reliable widget for everyday applications,Australia,2024-02-28
+Gadget J,98386.55,155,38293.52,Durable widget for heavy machinery,Europe,2024-02-18
+Gadget H,16998.2,193,4118.06,Cost-effective solution for small businesses,Asia,2024-03-03
+Gadget J,16215.41,174,3554.69,Cost-effective solution for small businesses,Europe,2024-06-10
+Gadget D,32402.83,61,10958.01,Durable widget for heavy machinery,South America,2024-12-15
+Widget J,86646.32,163,18233.47,Premium gadget with advanced features,Europe,2024-11-28
+Gadget E,63395.83,168,20365.8,High-quality widget for industrial use,South America,2024-06-22
+Gadget F,25168.53,152,7437.73,Compact device for consumer electronics,North America,2024-04-25
+Widget F,31729.22,127,9416.41,High-quality widget for industrial use,North America,2024-10-19
+Widget G,26001.48,78,5372.85,Reliable widget for everyday applications,Asia,2024-02-16
+Widget H,43895.42,94,9463.66,High-quality widget for industrial use,North America,2024-09-10
+Gadget J,75808.57,135,22991.62,Cost-effective solution for small businesses,North America,2024-09-13
+Gadget A,22001.69,147,6806.78,Eco-friendly product for sustainable markets,Asia,2024-04-05
+Widget D,53462.44,51,11363.07,High-quality widget for industrial use,Australia,2024-01-09
+Gadget B,89385.2,92,34473.22,Portable gadget with long battery life,South America,2024-09-26
+Widget I,54709.93,149,14627.06,Cost-effective solution for small businesses,Europe,2024-09-27
+Gadget G,67535.68,135,22750.02,Cost-effective solution for small businesses,Asia,2024-11-19
+Gadget G,68325.8,71,26117.34,High-performance device for enterprise use,South America,2024-05-27
+Widget G,95925.49,119,24348.81,High-quality widget for industrial use,Europe,2024-03-25
+Gadget J,56971.6,65,16758.03,High-quality widget for industrial use,North America,2024-11-07
+Widget E,79889.41,74,22316.03,High-quality widget for industrial use,Asia,2024-08-28
+Gadget D,90564.44,172,19687.56,Durable widget for heavy machinery,South America,2024-05-06
+Widget E,63277.31,158,15135.52,Portable gadget with long battery life,Australia,2024-03-25
+Gadget B,92945.57,110,19082.36,Portable gadget with long battery life,North America,2024-12-19
+Gadget G,53220.82,111,16266.58,Compact device for consumer electronics,Asia,2024-12-13
+Widget J,96515.0,120,37294.14,Cost-effective solution for small businesses,South America,2024-04-27
+Widget C,96674.62,194,23960.92,Cost-effective solution for small businesses,South America,2024-06-01
+Widget G,10938.29,93,3739.4,High-quality widget for industrial use,Asia,2024-01-16
+Widget I,36659.91,129,13364.03,Innovative gadget with AI integration,North America,2024-12-02
+Widget H,76151.93,120,24211.38,Cost-effective solution for small businesses,Europe,2024-02-11
+Widget E,76112.2,112,19508.89,Reliable widget for everyday applications,Asia,2024-04-08
+Widget E,37347.25,100,9817.14,High-quality widget for industrial use,Europe,2024-08-29
+Widget I,82983.23,123,32502.13,Cost-effective solution for small businesses,Asia,2024-02-24
+Gadget F,63555.93,200,16271.23,High-performance device for enterprise use,South America,2024-11-26
+Gadget F,67919.85,105,26658.23,Cost-effective solution for small businesses,Australia,2024-11-14
+Gadget A,95234.83,171,26006.44,Innovative gadget with AI integration,Asia,2024-03-18
+Gadget F,30529.53,103,7884.07,Eco-friendly product for sustainable markets,North America,2024-12-12
+Gadget G,48070.08,83,12696.97,Premium gadget with advanced features,Australia,2024-07-29
+Gadget I,22697.65,160,8555.81,Reliable widget for everyday applications,Asia,2024-07-04
+Widget C,81495.81,181,17180.0,Portable gadget with long battery life,South America,2024-03-19
+Widget F,26055.69,134,6495.37,High-quality widget for industrial use,North America,2024-12-26
+Gadget B,62416.35,58,12970.38,Cost-effective solution for small businesses,Asia,2024-02-16
+Widget H,95584.96,53,32759.04,Innovative gadget with AI integration,North America,2024-03-09
+Gadget A,86721.29,51,29679.1,Innovative gadget with AI integration,Australia,2024-10-13
+Gadget B,96137.42,148,23679.35,Cost-effective solution for small businesses,South America,2024-05-18
+Gadget H,90397.95,106,30958.28,High-quality widget for industrial use,Asia,2024-08-20
+Gadget A,38750.22,97,9509.76,Premium gadget with advanced features,North America,2024-01-07
+Gadget D,97487.58,175,27980.93,Eco-friendly product for sustainable markets,South America,2024-04-09
+Widget C,21916.07,122,7172.22,Durable widget for heavy machinery,North America,2024-11-09
+Gadget G,57988.18,193,16128.94,Innovative gadget with AI integration,Asia,2024-11-10
+Widget F,89187.11,90,30451.65,Eco-friendly product for sustainable markets,Europe,2024-05-04
+Gadget E,83771.74,143,33461.01,Durable widget for heavy machinery,Australia,2024-03-10
+Widget I,32832.81,146,9213.98,Cost-effective solution for small businesses,Asia,2024-09-15
+Gadget C,80388.84,144,24453.18,High-quality widget for industrial use,Asia,2024-05-15
+Gadget H,78232.18,156,17175.62,Portable gadget with long battery life,Asia,2024-02-24
+Gadget B,84976.83,125,30441.47,Portable gadget with long battery life,Australia,2024-03-30
+Widget B,31793.66,176,7155.12,Cost-effective solution for small businesses,Europe,2024-01-10
+Gadget F,33848.0,168,12251.09,Innovative gadget with AI integration,North America,2024-12-14
+Gadget B,35071.25,88,13488.58,Portable gadget with long battery life,Australia,2024-06-06
+Widget G,53404.5,197,20776.17,Reliable widget for everyday applications,South America,2024-08-22
+Gadget F,41729.66,145,15253.99,Cost-effective solution for small businesses,Europe,2024-05-05
+Widget I,52351.62,186,18338.65,Cost-effective solution for small businesses,Europe,2024-06-03
+Widget J,44719.93,163,15025.47,Premium gadget with advanced features,Australia,2024-04-22
+Widget I,22646.11,97,6181.62,Compact device for consumer electronics,South America,2024-04-08
+Widget E,67043.67,74,15863.0,Reliable widget for everyday applications,Europe,2024-01-10
+Gadget B,98757.32,157,38732.6,High-quality widget for industrial use,Australia,2024-02-26
+Gadget A,88662.52,177,28486.14,Reliable widget for everyday applications,Europe,2024-12-30
+Widget C,57961.26,89,12149.65,Cost-effective solution for small businesses,South America,2024-01-24
+Gadget H,91672.35,76,26755.38,High-quality widget for industrial use,Europe,2024-06-07
+Gadget A,32259.35,191,8137.11,Compact device for consumer electronics,Asia,2024-08-21
+Widget G,92875.53,107,23917.01,High-performance device for enterprise use,Australia,2024-10-22
+Gadget D,92086.26,84,26717.76,Portable gadget with long battery life,Australia,2024-05-23
+Widget C,62013.96,102,12682.26,Reliable widget for everyday applications,South America,2024-12-04
+Gadget H,75841.39,84,24099.87,Reliable widget for everyday applications,Asia,2024-12-31
+Widget J,24489.59,196,7541.11,Compact device for consumer electronics,South America,2024-05-20
+Gadget D,15679.97,192,4634.66,Compact device for consumer electronics,Asia,2024-11-08
+Widget C,57434.48,82,13170.75,Compact device for consumer electronics,Asia,2024-09-23
+Gadget J,31774.06,69,6763.18,Durable widget for heavy machinery,Asia,2024-04-23
+Widget H,73168.41,137,15543.33,Premium gadget with advanced features,Europe,2024-01-09
+Gadget F,56775.84,169,21415.7,Portable gadget with long battery life,Asia,2024-10-23
+Gadget F,26421.62,172,5774.9,Eco-friendly product for sustainable markets,South America,2024-09-05
+Widget C,40291.82,154,11401.85,Portable gadget with long battery life,Australia,2024-11-21
+Widget F,55390.17,103,13450.92,Compact device for consumer electronics,North America,2024-06-26
+Widget J,12298.84,52,3613.55,Portable gadget with long battery life,Europe,2024-08-02
+Widget H,78441.66,177,29369.55,Reliable widget for everyday applications,South America,2024-09-19
+Gadget E,21513.88,120,7422.14,Cost-effective solution for small businesses,South America,2024-03-04
+Gadget I,94091.93,122,34973.22,Premium gadget with advanced features,South America,2024-12-05
+Gadget B,59998.24,190,18675.92,Reliable widget for everyday applications,Asia,2024-02-21
+Widget F,70748.16,119,18525.94,Compact device for consumer electronics,South America,2024-11-30
+Gadget D,60777.81,110,16396.87,Compact device for consumer electronics,Asia,2024-10-08
+Gadget H,97283.54,119,24157.27,Innovative gadget with AI integration,North America,2024-06-15
+Widget D,70036.59,66,26061.45,Premium gadget with advanced features,Europe,2024-04-23
+Gadget C,45847.26,75,10314.5,Reliable widget for everyday applications,Asia,2024-02-24
+Gadget I,19416.39,199,5030.96,Premium gadget with advanced features,North America,2024-05-01
+Widget G,13354.21,62,2796.63,High-performance device for enterprise use,Australia,2024-12-13
+Gadget D,27357.78,117,6802.13,Reliable widget for everyday applications,Europe,2024-08-26
+Gadget I,18874.67,189,4702.66,Reliable widget for everyday applications,North America,2024-01-28
+Gadget G,53909.35,57,11389.21,Cost-effective solution for small businesses,Asia,2024-12-07
+Widget C,73620.8,112,19733.08,Innovative gadget with AI integration,South America,2024-04-14
+Widget C,66688.46,53,26010.07,Reliable widget for everyday applications,Asia,2024-05-17
+Gadget E,42684.13,142,9231.48,Compact device for consumer electronics,North America,2024-11-22
+Widget I,95994.31,82,34610.38,Portable gadget with long battery life,Asia,2024-10-21
+Gadget A,73166.7,179,26444.61,High-performance device for enterprise use,Australia,2024-10-09
+Widget B,52477.93,102,20229.35,Innovative gadget with AI integration,North America,2024-03-17
+Widget D,80798.2,141,28185.03,Portable gadget with long battery life,North America,2024-06-10
+Widget A,72428.98,124,20954.68,Eco-friendly product for sustainable markets,North America,2024-02-12
+Widget E,32793.65,75,8735.46,Reliable widget for everyday applications,Asia,2024-03-06
+Gadget C,98301.2,178,24999.93,High-quality widget for industrial use,South America,2024-09-24
+Widget C,40314.63,147,14959.37,Premium gadget with advanced features,Europe,2024-02-17
+Gadget I,77059.44,115,30107.66,Eco-friendly product for sustainable markets,Asia,2024-10-03
+Widget J,80663.1,155,21901.82,High-quality widget for industrial use,Europe,2024-05-12
+Widget H,54250.13,192,20681.18,Premium gadget with advanced features,North America,2024-10-01
+Gadget A,31116.34,169,11087.22,Reliable widget for everyday applications,Asia,2024-02-03
+Gadget B,42064.89,130,15488.4,Durable widget for heavy machinery,Australia,2024-10-21
+Gadget G,84803.27,50,17135.49,Compact device for consumer electronics,Europe,2024-10-02
+Widget I,74118.43,51,18023.88,Portable gadget with long battery life,Australia,2024-02-10
+Widget D,27660.36,54,9161.87,Innovative gadget with AI integration,North America,2024-08-19
+Gadget H,57722.91,142,13862.45,Cost-effective solution for small businesses,Europe,2024-09-19
+Widget A,41185.13,71,13902.77,High-quality widget for industrial use,Australia,2024-04-14
+Widget E,72510.18,66,25321.18,High-performance device for enterprise use,Europe,2024-05-05
+Gadget A,76550.86,173,20216.33,Cost-effective solution for small businesses,South America,2024-11-12
+Widget H,61421.67,177,18859.87,Durable widget for heavy machinery,Australia,2024-02-01
+Gadget A,67009.28,94,17428.3,Innovative gadget with AI integration,South America,2024-01-16
+Gadget F,60365.35,74,22173.68,Reliable widget for everyday applications,North America,2024-05-29
+Widget A,84052.27,163,24212.76,Innovative gadget with AI integration,North America,2024-10-05
+Widget F,31451.54,187,9153.31,Cost-effective solution for small businesses,South America,2024-09-17
+Widget F,39474.98,172,9229.8,High-quality widget for industrial use,South America,2024-06-28
+Gadget H,28399.02,184,11049.34,Eco-friendly product for sustainable markets,Asia,2024-12-07
+Gadget B,32672.85,50,9969.26,High-quality widget for industrial use,Asia,2024-02-19
+Widget J,73905.06,189,20425.94,Eco-friendly product for sustainable markets,Europe,2024-12-18
+Gadget I,43793.2,118,16790.74,High-quality widget for industrial use,Europe,2024-04-10
+Widget G,32734.68,67,12294.76,Portable gadget with long battery life,North America,2024-12-04
+Gadget I,20014.88,76,6448.92,Innovative gadget with AI integration,North America,2024-10-29
+Gadget F,46028.88,191,12561.58,High-quality widget for industrial use,South America,2024-12-14
+Widget H,58504.14,187,18524.27,Innovative gadget with AI integration,North America,2024-09-28
+Widget J,47226.52,110,11602.41,Portable gadget with long battery life,North America,2024-10-19
+Gadget C,53467.08,180,18149.38,High-quality widget for industrial use,North America,2024-04-15
+Gadget H,46537.7,61,11102.73,Reliable widget for everyday applications,Australia,2024-04-14
+Gadget G,44945.62,148,12434.36,Premium gadget with advanced features,South America,2024-07-20
+Widget J,24920.77,170,8459.44,High-performance device for enterprise use,North America,2024-04-09
+Widget C,59982.49,192,22979.22,Cost-effective solution for small businesses,Asia,2024-05-08
+Widget E,67729.66,162,25121.45,Durable widget for heavy machinery,Europe,2024-02-25
+Gadget B,61060.77,113,14644.54,Portable gadget with long battery life,Europe,2024-12-01
+Widget E,60412.2,139,12166.94,High-performance device for enterprise use,Asia,2024-10-12
+Widget D,73325.75,198,18848.28,High-quality widget for industrial use,North America,2024-06-14
+Gadget C,38909.06,136,14419.06,High-performance device for enterprise use,South America,2024-11-16
+Gadget F,67388.0,195,26727.42,Eco-friendly product for sustainable markets,North America,2024-03-11
+Widget C,22442.63,95,4680.72,Innovative gadget with AI integration,South America,2024-03-16
+Widget D,32107.33,115,6985.97,High-quality widget for industrial use,Australia,2024-09-07
+Gadget B,65001.98,197,13371.5,Durable widget for heavy machinery,North America,2024-09-11
+Gadget J,83391.84,81,31523.18,High-performance device for enterprise use,North America,2024-03-27
+Widget B,85534.44,67,18742.2,Eco-friendly product for sustainable markets,South America,2024-12-25
+Gadget C,41257.73,83,10166.9,High-quality widget for industrial use,Europe,2024-09-28
+Widget H,45964.54,145,15450.54,Premium gadget with advanced features,North America,2024-11-11
+Gadget C,45591.86,199,9380.23,Reliable widget for everyday applications,Europe,2024-08-21
+Widget G,33848.47,168,11031.05,Innovative gadget with AI integration,South America,2024-07-05
+Gadget B,50076.47,73,18046.89,Eco-friendly product for sustainable markets,North America,2024-06-07
+Widget A,19531.31,50,7052.67,Cost-effective solution for small businesses,Europe,2024-03-02
+Gadget C,82437.32,200,20360.51,Innovative gadget with AI integration,North America,2024-03-01
+Widget C,96022.68,178,38004.02,High-performance device for enterprise use,Australia,2024-04-29
+Widget C,33361.2,181,11881.57,Premium gadget with advanced features,South America,2024-09-13
+Widget G,46843.55,125,12452.49,Eco-friendly product for sustainable markets,South America,2024-08-03
+Gadget G,69830.58,195,18567.45,Reliable widget for everyday applications,South America,2024-10-21
+Gadget J,86167.19,159,34211.49,Durable widget for heavy machinery,Australia,2024-09-05
+Widget D,87155.68,51,18037.89,High-performance device for enterprise use,South America,2024-10-20
+Gadget A,97584.78,143,32836.95,Portable gadget with long battery life,Australia,2024-03-09
+Widget A,21076.82,96,8015.8,Eco-friendly product for sustainable markets,North America,2024-08-10
+Gadget G,32893.87,91,7865.13,High-quality widget for industrial use,Europe,2024-05-04
+Gadget D,87979.5,119,19507.16,Reliable widget for everyday applications,Australia,2024-09-24
+Widget F,72987.89,190,21025.01,Innovative gadget with AI integration,North America,2024-11-26
+Widget G,55524.43,87,12474.12,Innovative gadget with AI integration,South America,2024-01-30
+Gadget G,50027.4,190,17622.78,Compact device for consumer electronics,Australia,2024-07-05
+Gadget H,23054.13,191,6811.31,High-quality widget for industrial use,Australia,2024-06-19
+Gadget F,78298.87,104,20084.06,Innovative gadget with AI integration,South America,2024-01-06
+Gadget H,25279.72,157,6453.53,Premium gadget with advanced features,Europe,2024-02-27
+Gadget C,80042.16,155,31063.26,Compact device for consumer electronics,Europe,2024-05-15
+Gadget I,47124.76,104,16359.03,Portable gadget with long battery life,Australia,2024-09-27
+Gadget F,12478.3,194,3359.01,Premium gadget with advanced features,South America,2024-08-15
+Gadget G,13782.45,188,5294.13,Eco-friendly product for sustainable markets,North America,2024-01-07
+Gadget E,90426.78,173,35391.92,Premium gadget with advanced features,Europe,2024-10-08
+Widget B,86413.11,62,22071.95,Premium gadget with advanced features,Asia,2024-08-25
+Widget I,32408.61,190,12123.17,Durable widget for heavy machinery,South America,2024-09-19
+Gadget E,89067.98,177,22085.1,Premium gadget with advanced features,North America,2024-09-03
+Gadget J,67815.99,154,19424.86,Premium gadget with advanced features,South America,2024-09-25
+Widget F,66096.51,71,18404.5,Portable gadget with long battery life,South America,2024-12-27
+Widget H,61321.97,82,15236.53,Premium gadget with advanced features,North America,2024-07-03
+Widget H,66983.07,64,24422.63,High-performance device for enterprise use,South America,2024-04-09
+Gadget H,71746.7,81,15729.83,High-performance device for enterprise use,South America,2024-06-04
+Gadget I,20173.86,194,5197.31,Reliable widget for everyday applications,North America,2024-11-03
+Widget I,76219.16,60,28960.24,High-quality widget for industrial use,South America,2024-01-04
+Widget A,17055.28,73,5292.21,Portable gadget with long battery life,Europe,2024-01-26
+Widget D,63684.31,53,23759.64,High-performance device for enterprise use,Europe,2024-09-24
+Gadget E,32769.39,78,9365.31,Reliable widget for everyday applications,Australia,2024-09-28
+Widget F,93835.23,152,32672.02,Premium gadget with advanced features,Australia,2024-01-27
+Gadget D,59675.77,143,13897.1,Premium gadget with advanced features,Australia,2024-05-06
+Gadget I,16074.69,170,5871.33,Eco-friendly product for sustainable markets,Australia,2024-06-06
+Gadget B,42372.42,155,15823.69,High-quality widget for industrial use,Asia,2024-10-02
+Widget B,36789.33,151,11021.45,Innovative gadget with AI integration,North America,2024-10-13
+Widget B,45268.08,64,9650.43,Durable widget for heavy machinery,Australia,2024-03-04
+Gadget G,96257.19,115,23974.98,Reliable widget for everyday applications,Europe,2024-11-15
+Gadget C,60477.9,143,21640.74,High-quality widget for industrial use,Asia,2024-11-09
+Widget I,69060.33,101,25356.24,Eco-friendly product for sustainable markets,Asia,2024-12-07
+Widget H,62904.04,109,20886.18,Premium gadget with advanced features,South America,2024-06-19
+Widget F,44635.88,88,16886.59,Cost-effective solution for small businesses,Europe,2024-07-15
+Gadget I,13879.1,140,3434.66,Premium gadget with advanced features,Asia,2024-10-09
+Widget C,45722.38,86,17109.35,Portable gadget with long battery life,Europe,2024-02-19
+Widget H,65616.25,175,14351.29,Compact device for consumer electronics,Asia,2024-04-06
+Gadget H,74145.31,145,23485.01,High-performance device for enterprise use,Asia,2024-12-06
+Gadget C,90776.57,127,29847.63,Durable widget for heavy machinery,North America,2024-10-27
+Gadget I,62841.66,166,20789.57,Durable widget for heavy machinery,South America,2024-04-21
+Widget A,14410.36,54,5467.68,Innovative gadget with AI integration,Europe,2024-05-20
+Widget A,87921.13,156,32127.56,High-performance device for enterprise use,Asia,2024-05-05
+Gadget C,96054.54,121,37296.69,High-quality widget for industrial use,South America,2024-06-13
+Widget G,28391.3,153,7408.69,High-quality widget for industrial use,Asia,2024-02-14
+Gadget I,39862.25,63,15222.28,Cost-effective solution for small businesses,South America,2024-11-24
+Gadget J,44139.89,176,13824.55,Premium gadget with advanced features,Asia,2024-01-21
+Widget C,55958.14,101,17293.98,Portable gadget with long battery life,Asia,2024-11-15
+Widget D,64466.63,78,16466.17,Premium gadget with advanced features,Europe,2024-07-18
+Widget D,12751.97,65,4513.9,High-performance device for enterprise use,Asia,2024-06-15
+Widget A,77221.27,144,19653.61,Premium gadget with advanced features,Asia,2024-03-20
+Gadget G,25393.38,142,8233.5,Reliable widget for everyday applications,Asia,2024-02-03
+Gadget A,13669.48,138,4911.67,Portable gadget with long battery life,North America,2024-05-14
+Widget E,27257.26,174,7904.21,Eco-friendly product for sustainable markets,Asia,2024-03-06
+Gadget F,59558.56,127,18857.75,Durable widget for heavy machinery,Europe,2024-02-24
+Widget E,13809.21,115,3941.45,Compact device for consumer electronics,Australia,2024-01-06
+Widget A,29523.61,168,11589.59,Compact device for consumer electronics,Asia,2024-11-13
+Gadget A,59617.72,188,12797.96,High-quality widget for industrial use,Asia,2024-09-19
+Gadget A,50213.51,132,18999.78,Eco-friendly product for sustainable markets,Europe,2024-09-14
+Widget J,99359.23,63,35294.0,Reliable widget for everyday applications,Asia,2024-02-07
+Gadget J,55827.28,77,20022.77,Compact device for consumer electronics,Asia,2024-06-04
+Gadget C,29888.63,164,9086.07,Portable gadget with long battery life,Asia,2024-11-02
+Gadget C,41584.41,123,10184.41,Premium gadget with advanced features,South America,2024-12-15
+Gadget I,91612.84,69,29841.2,Compact device for consumer electronics,Europe,2024-08-21
+Widget I,14931.52,185,3596.04,Portable gadget with long battery life,Europe,2024-01-28
+Gadget D,56231.6,134,22036.81,High-quality widget for industrial use,North America,2024-01-25
+Widget I,64138.32,109,25007.8,Premium gadget with advanced features,Australia,2024-11-01
+Widget I,36683.56,87,12345.78,High-quality widget for industrial use,South America,2024-02-01
+Gadget E,70123.55,69,21167.4,Eco-friendly product for sustainable markets,Europe,2024-02-22
+Widget H,80330.99,138,21331.09,Premium gadget with advanced features,Asia,2024-08-20
+Widget A,41349.94,153,10104.46,High-quality widget for industrial use,Europe,2024-05-12
+Widget A,11111.52,126,3265.67,High-performance device for enterprise use,South America,2024-11-19
+Gadget H,65387.8,166,15500.01,Durable widget for heavy machinery,Asia,2024-07-04
+Widget I,16203.08,188,3460.21,Durable widget for heavy machinery,North America,2024-02-02
+Widget A,48306.71,58,17801.57,Premium gadget with advanced features,North America,2024-11-16
+Widget C,63151.48,69,18786.72,High-performance device for enterprise use,North America,2024-03-28
+Widget I,49542.72,128,16251.35,High-quality widget for industrial use,South America,2024-09-14
+Gadget F,56740.13,120,14687.81,Portable gadget with long battery life,Asia,2024-08-29
+Widget C,41159.53,65,11036.8,Innovative gadget with AI integration,Europe,2024-03-06
+Widget F,70199.65,116,25139.48,Reliable widget for everyday applications,Europe,2024-01-10
+Gadget D,14729.9,61,3264.81,Compact device for consumer electronics,North America,2024-06-07
+Gadget C,32684.73,76,9552.78,Compact device for consumer electronics,North America,2024-07-07
+Widget G,35427.09,89,9977.86,Innovative gadget with AI integration,South America,2024-05-18
+Widget D,32038.59,156,9393.85,Premium gadget with advanced features,Australia,2024-10-11
+Gadget F,52045.27,83,16419.2,Portable gadget with long battery life,Australia,2024-10-29
+Widget D,44280.78,141,14280.69,Innovative gadget with AI integration,Europe,2024-01-09
+Widget J,51435.91,175,16014.92,Durable widget for heavy machinery,North America,2024-06-12
+Widget J,63360.7,189,22241.55,Eco-friendly product for sustainable markets,Asia,2024-12-24
+Widget B,26020.97,109,5295.4,Eco-friendly product for sustainable markets,South America,2024-10-04
+Widget I,10583.28,69,3183.18,Durable widget for heavy machinery,Asia,2024-08-27
+Gadget B,66593.27,189,24230.33,Cost-effective solution for small businesses,North America,2024-08-05
+Gadget I,12888.79,59,5012.84,Durable widget for heavy machinery,Europe,2024-06-07
+Gadget H,53903.23,187,17651.17,High-quality widget for industrial use,North America,2024-01-27
+Gadget I,41519.72,125,10264.92,Compact device for consumer electronics,North America,2024-06-15
+Widget A,49110.3,98,12496.89,Portable gadget with long battery life,South America,2024-09-07
+Widget C,94205.06,123,26723.16,Premium gadget with advanced features,Europe,2024-08-16
+Widget F,84709.37,140,19305.84,Portable gadget with long battery life,North America,2024-05-27
+Gadget J,20812.99,172,5485.92,Compact device for consumer electronics,North America,2024-09-29
+Gadget I,18164.02,178,5007.72,Durable widget for heavy machinery,Australia,2024-03-13
+Widget A,44209.37,198,12511.25,Durable widget for heavy machinery,South America,2024-09-14
+Gadget H,45118.98,177,9150.38,Reliable widget for everyday applications,South America,2024-03-29
+Gadget A,35912.79,58,11950.04,Durable widget for heavy machinery,South America,2024-05-26
+Gadget F,57581.47,194,19271.26,Eco-friendly product for sustainable markets,North America,2024-01-31
+Widget H,51697.06,105,14492.16,High-quality widget for industrial use,North America,2024-03-25
+Gadget C,57098.28,150,20906.8,Durable widget for heavy machinery,South America,2024-10-29
+Gadget I,37426.56,97,14074.33,Eco-friendly product for sustainable markets,North America,2024-07-14
+Widget E,51737.0,160,20091.25,Eco-friendly product for sustainable markets,Europe,2024-04-09
+Widget D,83645.23,164,19729.88,High-quality widget for industrial use,South America,2024-07-31
+Gadget B,30066.8,196,9925.18,Reliable widget for everyday applications,South America,2024-12-14
+Gadget I,38382.5,112,8967.75,Innovative gadget with AI integration,North America,2024-11-23
+Gadget I,98528.07,96,38805.04,Reliable widget for everyday applications,North America,2024-01-23
+Gadget I,35230.62,196,8453.21,High-performance device for enterprise use,North America,2024-01-05
+Gadget A,17199.41,109,4188.88,Durable widget for heavy machinery,Asia,2024-05-10
+Gadget I,83411.89,177,29272.77,Eco-friendly product for sustainable markets,North America,2024-03-15
+Widget E,59719.48,134,11956.31,Compact device for consumer electronics,North America,2024-07-01
+Widget A,97634.67,91,21968.62,Premium gadget with advanced features,North America,2024-03-19
+Widget A,14460.38,157,5619.36,Premium gadget with advanced features,South America,2024-07-16
+Widget H,34247.97,51,7710.94,Cost-effective solution for small businesses,Europe,2024-05-21
+Gadget H,40596.52,165,10708.99,Cost-effective solution for small businesses,South America,2024-04-11
+Gadget C,36257.42,182,13577.96,Durable widget for heavy machinery,Asia,2024-07-22
+Widget H,57997.36,177,21002.18,High-quality widget for industrial use,Asia,2024-04-16
+Widget F,98638.21,131,37021.98,High-performance device for enterprise use,Asia,2024-08-20
+Gadget G,52766.19,61,20382.62,Reliable widget for everyday applications,Europe,2024-03-23
+Gadget A,17543.66,81,6746.18,Premium gadget with advanced features,Asia,2024-03-29
+Gadget J,70316.68,59,15136.01,High-performance device for enterprise use,South America,2024-09-12
+Gadget F,18436.43,51,6981.92,Compact device for consumer electronics,South America,2024-12-23
+Gadget B,24009.09,195,6959.04,Cost-effective solution for small businesses,Asia,2024-05-01
+Widget C,42991.51,168,16971.9,Premium gadget with advanced features,Australia,2024-05-11
+Gadget B,50754.11,153,17509.38,Compact device for consumer electronics,Australia,2024-03-20
+Widget B,20924.24,69,4526.92,Portable gadget with long battery life,Europe,2024-08-01
+Widget C,34162.77,98,8468.96,Eco-friendly product for sustainable markets,Europe,2024-12-22
+Gadget J,15100.8,132,5693.74,Compact device for consumer electronics,North America,2024-02-22
+Gadget J,74531.42,54,27541.35,Innovative gadget with AI integration,North America,2024-05-16
+Gadget I,39141.18,84,7870.82,Portable gadget with long battery life,Europe,2024-07-16
+Gadget I,50931.81,85,18316.15,Reliable widget for everyday applications,North America,2024-09-19
+Gadget H,65841.63,66,24234.54,Eco-friendly product for sustainable markets,Australia,2024-05-17
+Widget H,96851.16,142,34392.69,High-performance device for enterprise use,South America,2024-11-19
+Gadget E,89542.47,117,34230.01,High-quality widget for industrial use,South America,2024-03-20
+Gadget I,66625.46,195,18624.86,Premium gadget with advanced features,South America,2024-11-09
+Widget A,12057.08,92,3585.32,Eco-friendly product for sustainable markets,Asia,2024-02-21
+Gadget A,88343.1,87,25011.95,High-quality widget for industrial use,Australia,2024-05-03
+Gadget F,98260.04,157,39256.46,Cost-effective solution for small businesses,Asia,2024-11-19
+Widget C,27904.94,190,7469.49,Premium gadget with advanced features,Europe,2024-11-18
+Widget F,93658.78,184,32966.42,Reliable widget for everyday applications,Australia,2024-06-22
+Widget A,60046.45,134,14665.54,Reliable widget for everyday applications,Asia,2024-09-13
+Widget G,81690.49,183,25382.96,Innovative gadget with AI integration,Asia,2024-09-09
+Gadget G,35431.78,80,10768.77,Cost-effective solution for small businesses,Asia,2024-04-25
+Widget J,83455.28,137,27885.74,Eco-friendly product for sustainable markets,South America,2024-11-15
+Widget G,28407.25,162,8555.3,Portable gadget with long battery life,Europe,2024-10-25
+Widget I,82943.67,109,18552.73,Compact device for consumer electronics,Australia,2024-03-03
+Gadget F,44729.65,180,14939.01,Eco-friendly product for sustainable markets,Asia,2024-11-06
+Gadget J,77559.41,69,19265.16,Cost-effective solution for small businesses,Europe,2024-05-04
+Widget F,42749.74,182,8609.28,Premium gadget with advanced features,Asia,2024-09-26
+Widget E,82445.12,63,24703.72,Cost-effective solution for small businesses,Europe,2024-03-25
+Gadget E,66249.54,65,20436.65,Reliable widget for everyday applications,Asia,2024-06-07
+Gadget J,99494.12,180,23632.78,Cost-effective solution for small businesses,Europe,2024-02-26
+Gadget I,33732.8,54,11497.59,Eco-friendly product for sustainable markets,North America,2024-11-20
+Widget C,90840.04,53,23926.41,Innovative gadget with AI integration,Asia,2024-06-19
+Widget J,92064.61,98,19534.47,Portable gadget with long battery life,Asia,2024-07-18
+Gadget G,54029.65,102,18719.75,Durable widget for heavy machinery,South America,2024-01-11
+Widget E,27703.93,58,7275.14,High-quality widget for industrial use,South America,2024-11-09
+Gadget E,48855.0,183,11779.1,Reliable widget for everyday applications,Europe,2024-11-29
+Widget J,13196.64,53,3746.85,Reliable widget for everyday applications,Europe,2024-01-29
+Widget E,31154.31,93,9562.97,Portable gadget with long battery life,Europe,2024-12-07
+Gadget D,36871.83,157,9646.56,Durable widget for heavy machinery,Europe,2024-12-31
+Gadget B,12424.12,159,2947.85,High-performance device for enterprise use,Asia,2024-08-02
+Gadget D,62861.27,172,17201.82,Durable widget for heavy machinery,Australia,2024-08-11
+Gadget A,25582.27,158,6295.5,Innovative gadget with AI integration,Australia,2024-10-29
+Gadget J,72382.48,183,18714.4,Compact device for consumer electronics,North America,2024-01-27
+Widget F,68904.24,73,22666.89,High-quality widget for industrial use,Australia,2024-10-26
+Widget H,87758.13,140,27117.22,Premium gadget with advanced features,North America,2024-02-12
+Widget H,20130.03,99,6498.22,Innovative gadget with AI integration,Asia,2024-05-01
+Widget J,83186.06,85,26177.13,Cost-effective solution for small businesses,South America,2024-02-04
+Widget I,36612.51,123,13414.97,High-quality widget for industrial use,South America,2024-02-15
+Widget C,78045.95,155,15862.25,Cost-effective solution for small businesses,South America,2024-08-29
+Gadget H,35252.86,125,10176.97,Durable widget for heavy machinery,Europe,2024-08-05
+Widget G,77508.22,121,17362.42,Portable gadget with long battery life,South America,2024-07-04
+Gadget G,24717.15,103,6053.17,Durable widget for heavy machinery,Australia,2024-06-16
+Widget J,93727.88,58,22637.2,Portable gadget with long battery life,Europe,2024-01-05
+Widget G,84222.61,100,19177.03,High-quality widget for industrial use,Europe,2024-10-04
+Widget F,77865.82,93,23290.26,Compact device for consumer electronics,South America,2024-11-28
+Gadget I,81449.99,61,17632.51,Portable gadget with long battery life,Europe,2024-03-29
+Widget E,45590.69,141,16768.4,Cost-effective solution for small businesses,Australia,2024-08-23
+Widget I,32597.4,105,12981.07,Durable widget for heavy machinery,North America,2024-08-12
+Widget E,95845.09,187,36669.48,High-quality widget for industrial use,Europe,2024-12-16
+Widget C,35194.63,144,11144.14,Reliable widget for everyday applications,North America,2024-09-30
+Widget C,63471.38,168,14360.72,Innovative gadget with AI integration,South America,2024-07-30
+Widget B,13338.18,145,3414.03,Innovative gadget with AI integration,Europe,2024-09-14
+Widget E,36766.88,183,12845.58,Durable widget for heavy machinery,North America,2024-01-18
+Widget H,83125.84,133,23676.15,Reliable widget for everyday applications,South America,2024-10-18
+Gadget A,27163.0,109,5644.12,Portable gadget with long battery life,Australia,2024-06-05
+Widget B,39537.1,145,13392.34,High-performance device for enterprise use,Europe,2024-01-29
+Widget J,66467.56,99,18216.1,High-quality widget for industrial use,South America,2024-08-10
+Widget A,37435.7,82,10305.18,Premium gadget with advanced features,Asia,2024-02-19
+Gadget G,79909.62,80,17407.01,High-performance device for enterprise use,Europe,2024-05-22
+Gadget J,38991.78,59,13619.58,High-performance device for enterprise use,South America,2024-06-20
+Gadget B,43577.8,200,15581.83,Eco-friendly product for sustainable markets,Australia,2024-06-15
+Widget B,81061.48,109,26552.12,Compact device for consumer electronics,Asia,2024-01-24
+Widget D,16025.92,173,3265.41,High-quality widget for industrial use,North America,2024-10-11
+Widget I,61814.58,188,18415.13,Eco-friendly product for sustainable markets,Australia,2024-01-15
+Gadget J,52701.05,73,18902.28,Innovative gadget with AI integration,Europe,2024-03-21
+Widget F,45195.59,164,11761.21,Portable gadget with long battery life,South America,2024-12-14
+Gadget E,63656.25,154,19913.43,High-quality widget for industrial use,Australia,2024-02-21
+Widget D,59589.39,84,13870.76,Compact device for consumer electronics,Australia,2024-07-26
+Gadget E,99849.35,198,27174.28,Cost-effective solution for small businesses,South America,2024-02-10
+Gadget B,56125.15,150,14262.91,Innovative gadget with AI integration,Asia,2024-04-15
+Widget E,67766.46,167,18352.5,Eco-friendly product for sustainable markets,North America,2024-08-30
+Widget A,64444.96,169,24094.07,Cost-effective solution for small businesses,Europe,2024-08-01
+Gadget C,36370.38,94,10480.52,Reliable widget for everyday applications,Europe,2024-05-30
+Gadget A,97622.45,137,26016.59,Innovative gadget with AI integration,South America,2024-10-16
+Widget B,40048.4,119,10851.8,Cost-effective solution for small businesses,Australia,2024-03-16
+Gadget A,11912.42,74,4023.01,Innovative gadget with AI integration,North America,2024-11-18
+Widget D,55477.88,132,15255.82,High-quality widget for industrial use,Asia,2024-12-23
+Widget H,85713.72,129,33516.5,Innovative gadget with AI integration,North America,2024-04-20
+Gadget J,71350.32,154,27608.7,Innovative gadget with AI integration,North America,2024-07-04
+Gadget H,60891.14,64,13744.28,High-performance device for enterprise use,South America,2024-11-12
+Gadget A,29439.58,62,7082.52,High-performance device for enterprise use,North America,2024-10-08
+Widget G,13009.64,183,4330.34,Premium gadget with advanced features,Europe,2024-11-19
+Gadget C,87715.27,66,17845.07,High-quality widget for industrial use,Europe,2024-06-22
+Gadget G,71848.27,177,27892.68,Cost-effective solution for small businesses,Asia,2024-07-13
+Gadget H,99126.22,60,29247.4,Innovative gadget with AI integration,North America,2024-08-05
+Gadget F,82056.25,175,28847.17,Compact device for consumer electronics,Australia,2024-04-08
+Gadget B,91584.72,82,33330.17,High-performance device for enterprise use,Europe,2024-04-03
+Gadget G,12308.76,115,3404.88,Cost-effective solution for small businesses,South America,2024-02-13
+Gadget G,83972.75,187,28424.7,Compact device for consumer electronics,South America,2024-05-07
+Widget G,77614.06,133,16354.58,High-performance device for enterprise use,Europe,2024-10-29
+Widget E,44649.77,182,11952.73,Compact device for consumer electronics,Australia,2024-11-08
+Gadget B,19182.71,62,6679.94,Cost-effective solution for small businesses,North America,2024-04-18
+Widget H,34505.22,131,12846.14,High-performance device for enterprise use,Asia,2024-09-01
+Widget A,98868.68,113,23284.23,Portable gadget with long battery life,Asia,2024-12-12
+Gadget H,71322.73,121,24539.64,Durable widget for heavy machinery,Europe,2024-10-19
+Gadget B,90614.44,65,28552.0,Portable gadget with long battery life,Australia,2024-04-22
+Gadget J,80462.28,137,21237.58,Portable gadget with long battery life,North America,2024-11-17
+Widget C,87979.98,161,24092.3,Portable gadget with long battery life,South America,2024-10-17
+Widget H,50680.53,164,15831.14,Cost-effective solution for small businesses,Europe,2024-09-15
+Gadget C,54090.74,87,20268.22,Premium gadget with advanced features,Europe,2024-11-19
+Gadget J,87332.22,63,31639.82,Durable widget for heavy machinery,North America,2024-04-06
+Widget G,91434.77,156,26594.68,Cost-effective solution for small businesses,Europe,2024-06-21
+Gadget A,50314.78,109,17162.68,Portable gadget with long battery life,Australia,2024-11-11
+Gadget B,30252.21,61,11981.17,Cost-effective solution for small businesses,South America,2024-06-25
+Gadget A,16223.39,99,4422.77,High-performance device for enterprise use,Asia,2024-02-01
+Widget E,21220.96,143,5141.78,Eco-friendly product for sustainable markets,Australia,2024-09-02
+Widget I,46514.46,55,11888.35,Compact device for consumer electronics,North America,2024-11-03
+Widget B,19275.64,98,5718.56,Reliable widget for everyday applications,North America,2024-11-30
+Widget E,21221.0,139,4307.56,Innovative gadget with AI integration,Asia,2024-09-25
+Widget G,64289.68,105,18209.57,Cost-effective solution for small businesses,North America,2024-10-18
+Gadget F,99019.63,199,38028.66,Compact device for consumer electronics,North America,2024-11-18
+Gadget J,26940.93,73,10639.85,Premium gadget with advanced features,North America,2024-05-24
+Widget E,43968.44,119,11859.64,Eco-friendly product for sustainable markets,Australia,2024-06-14
+Widget C,78010.74,147,25527.02,Durable widget for heavy machinery,North America,2024-10-13
+Widget D,77791.38,160,27170.34,High-performance device for enterprise use,Australia,2024-10-04
+Widget J,41083.67,191,15671.83,Eco-friendly product for sustainable markets,North America,2024-11-28
+Widget D,62550.84,192,18162.04,Reliable widget for everyday applications,Asia,2024-05-25
+Widget E,72938.92,199,28033.29,Portable gadget with long battery life,Europe,2024-06-22
+Gadget I,79392.94,99,28417.04,Compact device for consumer electronics,Asia,2024-01-31
+Widget C,61960.04,198,23921.68,Eco-friendly product for sustainable markets,Asia,2024-01-23
+Widget C,78705.15,64,25695.86,Cost-effective solution for small businesses,Australia,2024-02-12
+Gadget E,78745.3,81,24592.91,High-quality widget for industrial use,Australia,2024-05-29
+Widget E,24415.35,168,4949.43,Portable gadget with long battery life,South America,2024-05-09
+Widget F,88754.61,100,25040.64,High-quality widget for industrial use,South America,2024-03-04
+Widget H,35017.59,189,13115.19,Premium gadget with advanced features,North America,2024-06-04
+Gadget J,70083.58,169,19315.25,Reliable widget for everyday applications,South America,2024-06-21
+Widget J,39396.3,173,15685.47,Premium gadget with advanced features,Australia,2024-07-23
+Widget G,53733.02,132,18491.56,Innovative gadget with AI integration,Europe,2024-06-10
+Widget I,50820.22,112,14103.02,High-quality widget for industrial use,Asia,2024-05-02
+Widget J,52243.33,173,11019.55,Eco-friendly product for sustainable markets,Asia,2024-07-01
+Widget B,73797.26,198,19739.59,Cost-effective solution for small businesses,North America,2024-02-01
+Gadget D,25772.88,145,6208.3,Durable widget for heavy machinery,North America,2024-11-09
+Widget H,89836.07,122,22009.42,Eco-friendly product for sustainable markets,South America,2024-01-05
+Gadget D,69991.62,94,20494.12,Premium gadget with advanced features,Asia,2024-02-19
+Widget E,17009.48,194,5920.93,Innovative gadget with AI integration,Australia,2024-08-09
+Gadget B,10963.47,62,2218.44,Portable gadget with long battery life,Europe,2024-06-02
+Widget D,91397.27,187,24231.69,Reliable widget for everyday applications,Europe,2024-07-13
+Gadget B,94155.13,122,31736.78,Premium gadget with advanced features,Europe,2024-09-17
+Gadget A,37659.64,178,11847.13,Cost-effective solution for small businesses,Asia,2024-04-29
+Widget F,16288.11,92,5710.45,Eco-friendly product for sustainable markets,North America,2024-11-14
+Widget E,92387.25,98,23871.96,Portable gadget with long battery life,Europe,2024-12-14
+Widget B,23788.47,170,6080.98,High-performance device for enterprise use,North America,2024-03-20
+Widget C,32188.96,58,8204.5,Eco-friendly product for sustainable markets,Europe,2024-08-11
+Gadget D,69851.98,110,27748.86,Innovative gadget with AI integration,Europe,2024-01-31
+Widget F,43828.99,94,10826.03,Cost-effective solution for small businesses,North America,2024-11-29
+Widget J,46577.25,110,17348.97,Reliable widget for everyday applications,North America,2024-08-07
+Widget A,42547.57,79,14697.91,Durable widget for heavy machinery,North America,2024-07-24
+Widget E,84413.14,123,26563.04,Durable widget for heavy machinery,Asia,2024-05-07
+Widget H,74374.02,143,19412.54,Compact device for consumer electronics,Asia,2024-07-22
+Widget A,79417.39,129,17426.68,Portable gadget with long battery life,Asia,2024-04-19
+Gadget F,16129.34,56,6327.82,Compact device for consumer electronics,Australia,2024-12-16
+Gadget B,98689.19,144,25654.79,Premium gadget with advanced features,Australia,2024-03-03
+Gadget A,14995.12,148,3854.36,Premium gadget with advanced features,Europe,2024-06-11
+Gadget H,31984.38,143,8845.37,Eco-friendly product for sustainable markets,North America,2024-04-17
+Gadget F,39364.49,174,11351.72,Portable gadget with long battery life,Asia,2024-04-21
+Widget B,88197.11,116,18999.95,High-performance device for enterprise use,South America,2024-10-19
+Widget E,29636.11,143,8709.42,High-quality widget for industrial use,South America,2024-04-11
+Gadget E,51021.38,127,11824.63,Reliable widget for everyday applications,Australia,2024-11-12
+Gadget D,66309.96,194,22206.39,Compact device for consumer electronics,Australia,2024-08-31
+Gadget H,45204.49,161,13578.82,Innovative gadget with AI integration,Asia,2024-01-03
+Widget A,49477.04,142,17074.02,Durable widget for heavy machinery,South America,2024-09-14
+Widget G,35284.14,140,12968.72,Reliable widget for everyday applications,Europe,2024-11-02
+Gadget E,90175.4,124,31309.19,Premium gadget with advanced features,Europe,2024-05-22
+Widget J,76617.77,148,21819.96,High-performance device for enterprise use,Europe,2024-08-01
+Widget A,53622.06,52,17495.12,High-performance device for enterprise use,North America,2024-12-13
+Gadget J,41929.61,54,8443.77,Eco-friendly product for sustainable markets,Australia,2024-03-10
+Widget J,51040.88,195,19005.57,Eco-friendly product for sustainable markets,Australia,2024-10-29
+Widget B,89678.03,162,30140.2,High-quality widget for industrial use,North America,2024-08-25
+Widget I,73804.55,125,19611.14,Cost-effective solution for small businesses,South America,2024-07-26
+Gadget B,29306.32,141,10700.01,Premium gadget with advanced features,South America,2024-12-14
+Widget H,89694.96,159,26745.86,Premium gadget with advanced features,Europe,2024-02-16
+Widget E,64785.54,194,19738.25,Reliable widget for everyday applications,North America,2024-08-23
+Widget A,12448.61,57,4807.86,Portable gadget with long battery life,North America,2024-01-21
+Gadget H,40391.21,112,15200.33,Compact device for consumer electronics,South America,2024-02-25
+Widget A,23047.99,147,6853.11,Innovative gadget with AI integration,North America,2024-01-18
+Widget C,56870.22,183,12160.72,Eco-friendly product for sustainable markets,South America,2024-06-29
+Gadget G,47507.4,161,13889.01,Eco-friendly product for sustainable markets,North America,2024-07-18
+Gadget G,57646.5,159,19899.0,High-performance device for enterprise use,Australia,2024-04-23
+Gadget F,30628.24,193,11438.46,High-performance device for enterprise use,South America,2024-07-13
+Widget E,62350.69,159,22629.04,Eco-friendly product for sustainable markets,Asia,2024-03-10
+Widget J,20230.27,171,5613.05,High-quality widget for industrial use,Australia,2024-01-23
+Gadget B,75006.03,108,28257.46,Reliable widget for everyday applications,South America,2024-12-27
+Widget G,17086.74,94,6025.67,Cost-effective solution for small businesses,Asia,2024-04-27
+Widget I,19123.12,194,6573.9,Compact device for consumer electronics,Asia,2024-08-31
+Gadget J,71962.53,158,21089.65,Portable gadget with long battery life,South America,2024-12-01
+Gadget F,56508.02,112,17942.91,Premium gadget with advanced features,South America,2024-09-10
+Gadget I,74587.61,115,24953.43,Premium gadget with advanced features,South America,2024-07-19
+Gadget J,71763.71,111,28113.51,Reliable widget for everyday applications,North America,2024-05-01
+Gadget E,50774.6,105,18273.33,Eco-friendly product for sustainable markets,South America,2024-07-15
+Widget C,16893.82,113,4564.81,Reliable widget for everyday applications,Australia,2024-05-06
+Widget F,99708.11,183,36299.84,Reliable widget for everyday applications,South America,2024-02-07
+Gadget G,81838.82,150,16848.25,Eco-friendly product for sustainable markets,Asia,2024-11-13
+Gadget E,66342.24,158,17383.87,Eco-friendly product for sustainable markets,Asia,2024-11-21
+Widget H,40418.87,177,12400.94,Cost-effective solution for small businesses,Australia,2024-08-27
+Widget F,61389.04,157,16919.57,Portable gadget with long battery life,South America,2024-01-17
+Widget B,13853.42,165,4077.07,Portable gadget with long battery life,Europe,2024-11-15
+Gadget B,76918.95,158,29129.54,High-performance device for enterprise use,Asia,2024-12-11
+Widget B,18301.36,153,5354.64,Cost-effective solution for small businesses,North America,2024-01-22
+Gadget E,26041.15,66,5630.68,Cost-effective solution for small businesses,Europe,2024-01-11
+Widget H,72666.47,181,25339.95,High-quality widget for industrial use,Australia,2024-10-26
+Widget D,33306.78,185,12881.03,Durable widget for heavy machinery,Asia,2024-08-26
+Gadget I,99320.09,181,20337.62,High-performance device for enterprise use,Europe,2024-11-16
+Widget G,62213.26,82,17609.43,High-performance device for enterprise use,South America,2024-07-12
+Widget A,52532.51,195,19944.82,Eco-friendly product for sustainable markets,Europe,2024-10-29
+Gadget F,52899.06,166,12631.49,Compact device for consumer electronics,South America,2024-05-28
+Widget D,37952.11,75,7782.1,Compact device for consumer electronics,South America,2024-11-21
+Gadget F,73367.79,97,22859.43,Durable widget for heavy machinery,Australia,2024-11-18
+Widget D,98292.56,89,38183.9,High-performance device for enterprise use,Asia,2024-09-29
+Gadget B,87405.4,74,33291.02,Reliable widget for everyday applications,Australia,2024-08-04
+Widget C,30169.74,158,11674.13,Innovative gadget with AI integration,Europe,2024-08-20
+Widget H,68969.89,185,23291.13,Reliable widget for everyday applications,Australia,2024-03-21
+Gadget H,74571.57,116,26022.52,Premium gadget with advanced features,Europe,2024-01-09
+Gadget E,24172.44,130,5019.69,High-quality widget for industrial use,Australia,2024-11-10
+Widget G,35508.05,119,13651.05,High-performance device for enterprise use,Europe,2024-01-23
+Widget A,99338.46,137,29195.56,High-quality widget for industrial use,North America,2024-03-29
+Widget E,66777.13,112,19569.16,Cost-effective solution for small businesses,Asia,2024-08-14
+Gadget F,16991.22,107,3933.19,Cost-effective solution for small businesses,South America,2024-05-29
+Widget D,57899.04,171,19167.02,Durable widget for heavy machinery,South America,2024-04-21
+Widget I,81181.55,85,18949.24,Compact device for consumer electronics,North America,2024-09-18
+Gadget G,66355.2,170,23149.98,Cost-effective solution for small businesses,North America,2024-09-08
+Widget J,21161.69,150,6937.43,Eco-friendly product for sustainable markets,Australia,2024-01-13
+Gadget C,40442.36,113,14581.21,Compact device for consumer electronics,Europe,2024-12-07
+Widget C,88347.74,64,30938.23,Portable gadget with long battery life,Australia,2024-03-21
+Gadget I,76360.14,62,23530.81,Innovative gadget with AI integration,Asia,2024-10-08
+Gadget D,47320.6,123,17457.89,Compact device for consumer electronics,North America,2024-07-10
+Widget F,23682.56,184,6518.74,Eco-friendly product for sustainable markets,Australia,2024-01-27
+Gadget C,15244.91,181,5620.08,Premium gadget with advanced features,South America,2024-12-25
+Gadget B,12465.72,168,4536.8,Compact device for consumer electronics,North America,2024-09-04
+Gadget I,92787.01,142,18814.92,Reliable widget for everyday applications,Australia,2024-01-03
+Widget B,56072.35,81,18284.17,Compact device for consumer electronics,Asia,2024-02-27
+Gadget J,94465.34,129,27504.52,High-performance device for enterprise use,North America,2024-09-20
+Gadget C,45198.82,168,10315.64,Eco-friendly product for sustainable markets,North America,2024-12-01
+Gadget A,31622.87,150,11762.18,Reliable widget for everyday applications,Australia,2024-03-06
+Widget D,68117.86,99,23623.98,Portable gadget with long battery life,Asia,2024-02-18
+Widget B,48473.41,158,17420.59,Durable widget for heavy machinery,Asia,2024-04-15
+Gadget F,49630.4,113,10032.72,Eco-friendly product for sustainable markets,Europe,2024-12-05
+Gadget G,33076.41,135,8797.86,Reliable widget for everyday applications,North America,2024-09-15
+Widget H,34206.19,165,9978.11,Compact device for consumer electronics,Australia,2024-07-26
+Widget A,67633.09,172,15745.45,Compact device for consumer electronics,Asia,2024-06-11
+Gadget G,13860.56,65,5522.08,High-performance device for enterprise use,Australia,2024-06-19
+Gadget A,16928.19,164,5031.43,Innovative gadget with AI integration,North America,2024-08-07
+Widget C,49530.9,181,11838.45,Innovative gadget with AI integration,Europe,2024-11-29
+Widget B,56368.5,188,21337.08,Cost-effective solution for small businesses,South America,2024-07-26
+Widget C,68130.48,119,21129.43,Portable gadget with long battery life,Europe,2024-11-23
+Widget G,84522.13,152,32559.07,High-performance device for enterprise use,Australia,2024-11-04
+Gadget I,96352.74,109,37208.5,Cost-effective solution for small businesses,Europe,2024-07-09
+Gadget G,61876.65,87,22582.11,Cost-effective solution for small businesses,Australia,2024-12-01
+Gadget H,77518.71,170,29653.74,High-quality widget for industrial use,Asia,2024-02-27
+Gadget B,70685.55,167,21201.77,Innovative gadget with AI integration,North America,2024-06-05
+Gadget B,80496.11,140,29910.1,Reliable widget for everyday applications,South America,2024-08-09
+Widget H,94555.36,145,35559.59,Reliable widget for everyday applications,Asia,2024-04-10
+Gadget D,22243.23,154,5254.27,High-quality widget for industrial use,Asia,2024-11-06
+Widget C,78602.85,114,30144.3,Reliable widget for everyday applications,Asia,2024-04-22
+Gadget E,71078.53,198,14866.6,High-performance device for enterprise use,Asia,2024-05-14
+Gadget F,11286.67,107,2498.18,High-performance device for enterprise use,Europe,2024-12-18
+Widget J,36778.9,156,10378.16,Reliable widget for everyday applications,Asia,2024-06-12
+Gadget D,53613.18,187,20955.15,Reliable widget for everyday applications,Asia,2024-04-24
+Gadget A,29232.11,77,6572.94,High-quality widget for industrial use,South America,2024-11-24
+Widget G,59788.22,178,23603.46,Portable gadget with long battery life,North America,2024-05-25
+Gadget A,72139.95,53,28703.58,High-quality widget for industrial use,South America,2024-07-28
+Widget G,74301.7,77,28798.3,Premium gadget with advanced features,North America,2024-12-26
+Widget B,14503.05,133,5577.16,Eco-friendly product for sustainable markets,Australia,2024-05-04
+Widget B,64925.36,51,15360.74,Durable widget for heavy machinery,North America,2024-07-06
+Widget I,71434.08,104,21155.56,Durable widget for heavy machinery,North America,2024-02-09
+Gadget B,21180.74,54,7183.04,Reliable widget for everyday applications,Australia,2024-12-10
+Widget J,49980.71,185,18855.72,High-performance device for enterprise use,Australia,2024-11-28
+Gadget A,39882.47,68,15278.33,Compact device for consumer electronics,Australia,2024-12-04
+Widget I,54381.14,91,20914.15,Innovative gadget with AI integration,Australia,2024-03-22
+Gadget H,21436.63,110,4568.62,Premium gadget with advanced features,Australia,2024-10-21
+Widget F,62745.33,131,13866.1,Eco-friendly product for sustainable markets,South America,2024-10-22
+Widget J,28664.99,170,9203.6,Cost-effective solution for small businesses,South America,2024-06-01
+Widget J,94458.09,96,36870.5,Cost-effective solution for small businesses,Australia,2024-02-14
+Gadget D,88671.14,159,34892.0,Compact device for consumer electronics,South America,2024-12-26
+Gadget A,48204.12,123,10939.55,Compact device for consumer electronics,North America,2024-08-07
+Gadget C,19295.39,197,5053.03,Premium gadget with advanced features,South America,2024-08-12
+Gadget D,25480.48,133,9895.22,Eco-friendly product for sustainable markets,North America,2024-05-04
+Gadget I,46393.74,74,17213.79,Portable gadget with long battery life,South America,2024-05-03
+Gadget B,42702.96,86,16964.8,High-quality widget for industrial use,South America,2024-05-11
+Widget I,21345.7,107,7672.54,Compact device for consumer electronics,South America,2024-03-17
+Widget D,86330.02,141,30058.71,Innovative gadget with AI integration,Asia,2024-07-03
+Widget G,11395.34,128,4337.11,Cost-effective solution for small businesses,Europe,2024-08-19
+Gadget B,66065.58,106,20771.28,Reliable widget for everyday applications,Asia,2024-09-20
+Widget J,58258.29,172,15403.58,Compact device for consumer electronics,South America,2024-02-02
+Gadget I,46090.61,199,11922.49,Eco-friendly product for sustainable markets,Europe,2024-03-29
+Gadget B,60195.08,144,21312.51,Compact device for consumer electronics,Europe,2024-01-31
+Gadget F,56439.01,153,11542.55,Premium gadget with advanced features,Asia,2024-04-05
+Gadget I,76757.39,116,29273.87,High-quality widget for industrial use,Australia,2024-10-02
+Gadget F,24017.48,134,7225.39,Premium gadget with advanced features,North America,2024-12-07
+Widget D,10257.34,157,2887.35,Compact device for consumer electronics,South America,2024-05-24
+Widget H,83885.69,73,21529.82,Premium gadget with advanced features,North America,2024-02-08
+Gadget B,51686.89,165,16948.02,Cost-effective solution for small businesses,Europe,2024-02-24
+Widget B,59710.68,89,20374.61,High-quality widget for industrial use,North America,2024-09-10
+Gadget G,47107.09,147,9421.78,Eco-friendly product for sustainable markets,Asia,2024-12-28
+Gadget J,94425.67,51,26857.48,Portable gadget with long battery life,South America,2024-03-18
+Widget A,70549.9,158,18501.76,Eco-friendly product for sustainable markets,Europe,2024-09-14
+Gadget E,79017.86,61,24152.17,Premium gadget with advanced features,Europe,2024-03-26
+Widget B,98374.99,135,27432.78,Cost-effective solution for small businesses,South America,2024-10-17
+Widget E,53058.01,75,14219.04,Reliable widget for everyday applications,North America,2024-03-30
+Gadget D,49833.63,159,15656.75,Premium gadget with advanced features,South America,2024-07-01
+Widget F,39045.52,124,10236.65,Compact device for consumer electronics,Asia,2024-03-29
+Gadget D,36707.8,68,9781.65,Eco-friendly product for sustainable markets,Asia,2024-03-13
+Gadget C,46861.53,152,16496.42,Reliable widget for everyday applications,South America,2024-11-02
+Widget F,36956.0,57,8432.37,Eco-friendly product for sustainable markets,South America,2024-08-05
+Gadget B,34965.51,177,9750.67,Portable gadget with long battery life,South America,2024-06-02
+Widget C,58764.72,200,14898.06,High-quality widget for industrial use,North America,2024-10-03
+Gadget G,82048.47,130,19481.6,Innovative gadget with AI integration,Australia,2024-08-08
+Widget E,88797.33,115,32900.97,Compact device for consumer electronics,Australia,2024-06-28
+Gadget I,62424.83,102,24101.12,Innovative gadget with AI integration,Europe,2024-08-24
+Gadget D,97449.4,200,36609.25,Portable gadget with long battery life,Asia,2024-12-30
+Widget A,69304.61,141,18918.35,Portable gadget with long battery life,South America,2024-12-12
+Widget D,97207.97,54,28197.08,Innovative gadget with AI integration,North America,2024-04-05
+Widget G,20218.64,193,6243.74,Innovative gadget with AI integration,South America,2024-12-20
+Widget B,74415.09,100,17453.18,Cost-effective solution for small businesses,South America,2024-07-29
+Gadget E,52832.96,98,19474.1,Durable widget for heavy machinery,North America,2024-03-08
+Widget I,84772.42,155,23812.4,High-quality widget for industrial use,South America,2024-08-10
+Widget E,27601.81,174,7692.18,Premium gadget with advanced features,North America,2024-12-17
+Widget C,46610.01,188,16023.52,Durable widget for heavy machinery,Asia,2024-06-19
+Widget G,51777.02,160,11779.87,Eco-friendly product for sustainable markets,Australia,2024-11-15
+Widget A,89046.27,155,24313.94,High-quality widget for industrial use,Australia,2024-05-22
+Widget E,91532.6,76,33644.83,Cost-effective solution for small businesses,South America,2024-09-24
+Widget H,46841.37,179,10204.0,Compact device for consumer electronics,South America,2024-11-13
+Gadget J,97050.45,121,35262.94,Premium gadget with advanced features,Australia,2024-02-29
+Gadget I,48940.82,120,12561.76,High-quality widget for industrial use,Australia,2024-11-07
+Gadget E,38779.16,53,12186.18,Premium gadget with advanced features,South America,2024-01-29
+Widget A,17144.25,77,6103.48,Cost-effective solution for small businesses,Australia,2024-09-28
+Gadget D,80822.99,112,32275.61,Compact device for consumer electronics,Asia,2024-03-31
+Widget F,50811.87,80,12758.75,Cost-effective solution for small businesses,South America,2024-09-08
+Widget C,92444.19,164,26625.89,Eco-friendly product for sustainable markets,North America,2024-10-21
+Widget E,12391.83,92,4134.31,Cost-effective solution for small businesses,South America,2024-10-19
+Gadget B,64609.63,157,22734.93,Eco-friendly product for sustainable markets,North America,2024-11-13
+Widget A,15460.91,197,3472.12,Eco-friendly product for sustainable markets,Asia,2024-04-27
+Gadget F,47252.01,174,10125.23,Portable gadget with long battery life,Europe,2024-02-19
+Widget C,87586.19,113,23331.79,High-performance device for enterprise use,North America,2024-08-04
+Widget C,71398.67,90,16583.69,High-quality widget for industrial use,Australia,2024-06-14
+Gadget E,48719.87,63,10997.29,Reliable widget for everyday applications,Europe,2024-05-05
+Gadget B,84232.63,190,26921.41,Eco-friendly product for sustainable markets,Australia,2024-12-01
+Gadget C,96215.69,122,28650.19,High-quality widget for industrial use,Asia,2024-05-17
+Gadget F,30630.79,183,12093.95,Reliable widget for everyday applications,South America,2024-01-10
+Widget G,68472.58,52,20776.23,High-performance device for enterprise use,Asia,2024-06-04
+Widget B,54684.56,190,12668.99,Compact device for consumer electronics,South America,2024-03-06
+Widget B,11524.71,179,3341.91,Eco-friendly product for sustainable markets,Australia,2024-07-22
+Widget B,46267.29,118,12505.73,Innovative gadget with AI integration,Australia,2024-03-30
+Gadget F,94118.82,186,33675.08,Compact device for consumer electronics,Australia,2024-10-04
+Widget H,80854.16,110,19302.07,Premium gadget with advanced features,Europe,2024-08-14
+Gadget A,14496.95,163,5639.77,Innovative gadget with AI integration,Europe,2024-04-01
+Widget F,68968.1,134,16584.94,Premium gadget with advanced features,Australia,2024-05-24
+Widget D,60959.4,130,13692.12,Cost-effective solution for small businesses,North America,2024-07-03
+Widget B,36985.89,123,9169.42,Durable widget for heavy machinery,Europe,2024-03-27
+Widget G,10057.79,159,3157.9,High-quality widget for industrial use,South America,2024-07-08
+Widget H,83685.8,95,27019.03,Portable gadget with long battery life,North America,2024-09-15
+Gadget F,91118.17,128,28133.0,Eco-friendly product for sustainable markets,Australia,2024-12-22
+Gadget J,28036.22,126,10787.9,Innovative gadget with AI integration,Australia,2024-01-15
+Widget B,34729.85,194,12143.21,High-quality widget for industrial use,Europe,2024-08-11
+Widget D,62465.58,74,22480.13,Eco-friendly product for sustainable markets,Australia,2024-04-27
+Gadget H,47728.04,165,16795.18,Premium gadget with advanced features,Europe,2024-10-16
+Widget H,51807.33,62,19347.73,Eco-friendly product for sustainable markets,Asia,2024-04-26
+Gadget B,44968.16,110,10222.72,Compact device for consumer electronics,North America,2024-07-29
+Gadget F,58354.61,100,14178.03,High-quality widget for industrial use,North America,2024-12-01
+Widget B,65064.73,76,22239.87,Innovative gadget with AI integration,North America,2024-07-09
+Gadget H,56968.8,139,13428.02,High-performance device for enterprise use,Asia,2024-01-16
+Widget D,48104.5,176,17213.24,Innovative gadget with AI integration,South America,2024-04-11
+Gadget I,58087.01,112,16090.18,Innovative gadget with AI integration,Asia,2024-04-01
+Widget F,74727.33,61,21704.29,Reliable widget for everyday applications,Europe,2024-07-06
+Widget E,30011.05,109,7092.29,Portable gadget with long battery life,South America,2024-10-03
+Widget I,69276.84,180,24632.19,High-performance device for enterprise use,Asia,2024-04-10
+Widget F,13573.66,55,3839.58,Durable widget for heavy machinery,Australia,2024-10-10
+Gadget D,16681.02,56,5574.87,High-quality widget for industrial use,Australia,2024-07-20
+Widget E,81870.83,111,30625.39,Innovative gadget with AI integration,Australia,2024-03-05
+Widget J,61130.12,77,13875.5,Cost-effective solution for small businesses,Europe,2024-12-17
+Widget I,34532.04,83,9256.19,Innovative gadget with AI integration,South America,2024-09-22
+Gadget A,55836.48,195,13548.78,Durable widget for heavy machinery,Europe,2024-11-21
+Widget H,34949.26,90,12129.84,Portable gadget with long battery life,North America,2024-08-13
+Gadget F,61686.14,190,21744.28,Innovative gadget with AI integration,Australia,2024-01-28
+Widget F,58201.99,81,14569.02,Durable widget for heavy machinery,North America,2024-06-22
+Gadget G,99293.66,111,37101.81,Cost-effective solution for small businesses,South America,2024-09-08
+Widget E,73444.77,127,19013.4,High-performance device for enterprise use,Europe,2024-04-11
+Gadget D,99702.46,181,26065.02,Portable gadget with long battery life,South America,2024-08-25
+Widget G,82808.57,76,17481.26,Compact device for consumer electronics,North America,2024-08-20
+Widget J,91400.79,189,26453.26,Innovative gadget with AI integration,Australia,2024-01-14
+Gadget I,85464.08,52,30746.04,Premium gadget with advanced features,Australia,2024-01-24
+Widget C,63893.46,148,13570.55,Compact device for consumer electronics,South America,2024-07-16
+Widget D,47132.2,145,15554.37,Portable gadget with long battery life,Europe,2024-09-23
+Gadget G,37288.27,133,8176.41,High-performance device for enterprise use,Australia,2024-03-04
+Gadget E,33401.22,89,7214.8,High-quality widget for industrial use,Australia,2024-08-20
+Gadget D,18316.84,124,5340.34,Durable widget for heavy machinery,Europe,2024-04-08
+Widget A,70502.1,147,26807.82,Cost-effective solution for small businesses,North America,2024-10-08
+Gadget D,81763.36,82,23797.54,Compact device for consumer electronics,Asia,2024-01-19
+Widget C,52977.75,152,18684.0,High-quality widget for industrial use,Asia,2024-09-15
+Widget G,60667.31,144,21771.96,Durable widget for heavy machinery,Australia,2024-03-28
+Gadget J,26627.76,135,8530.06,High-performance device for enterprise use,South America,2024-08-04
+Gadget F,63423.9,157,15283.07,Eco-friendly product for sustainable markets,South America,2024-04-18
+Gadget D,68138.97,70,21584.97,High-quality widget for industrial use,Australia,2024-06-13
+Widget B,61372.58,194,19012.54,Eco-friendly product for sustainable markets,South America,2024-02-17
+Widget D,90447.91,134,35832.17,Reliable widget for everyday applications,South America,2024-07-29
+Gadget F,11814.93,174,3399.5,Innovative gadget with AI integration,Australia,2024-03-02
+Widget G,55780.5,184,12988.07,Durable widget for heavy machinery,Asia,2024-12-16
+Widget B,12436.86,133,2563.7,Durable widget for heavy machinery,South America,2024-01-08
+Widget D,31487.83,188,11134.51,Compact device for consumer electronics,Asia,2024-02-12
+Widget I,90458.18,100,34807.69,Durable widget for heavy machinery,South America,2024-05-11
+Gadget G,15695.74,67,3412.31,Cost-effective solution for small businesses,North America,2024-06-30
+Gadget E,27690.02,183,8713.66,Premium gadget with advanced features,South America,2024-11-28
+Gadget A,52550.29,198,15543.48,Compact device for consumer electronics,Australia,2024-05-05
+Gadget I,11561.49,182,3551.99,High-quality widget for industrial use,Asia,2024-08-21
+Widget D,52762.89,171,12149.47,Cost-effective solution for small businesses,Australia,2024-10-26
+Widget A,33367.61,156,10025.9,Durable widget for heavy machinery,South America,2024-07-03
+Gadget D,20664.14,126,7241.69,High-quality widget for industrial use,Europe,2024-09-23
+Widget D,16170.9,132,3863.39,Compact device for consumer electronics,Australia,2024-08-07
+Gadget B,57462.27,125,12653.88,Premium gadget with advanced features,Australia,2024-08-29
+Widget B,13620.21,198,3261.02,Cost-effective solution for small businesses,Asia,2024-05-02
+Widget F,49219.81,152,13976.57,High-performance device for enterprise use,Asia,2024-08-12
+Gadget H,80378.06,64,21315.27,Premium gadget with advanced features,Asia,2024-10-17
+Widget C,20818.47,61,6882.52,High-performance device for enterprise use,Australia,2024-12-02
+Gadget J,18806.75,90,6867.93,Compact device for consumer electronics,Asia,2024-08-19
+Gadget J,64333.35,137,24297.34,High-quality widget for industrial use,South America,2024-07-21
+Gadget B,43624.64,51,17383.22,Eco-friendly product for sustainable markets,Australia,2024-11-21
+Widget I,82796.62,165,16936.08,Durable widget for heavy machinery,Australia,2024-12-08
+Widget C,83052.2,190,18103.46,Portable gadget with long battery life,Asia,2024-08-08
+Gadget D,95337.17,130,36119.29,Portable gadget with long battery life,South America,2024-06-08
+Widget E,27537.47,99,8801.43,High-performance device for enterprise use,North America,2024-07-26
+Widget B,76443.98,123,22626.61,Portable gadget with long battery life,Australia,2024-04-27
+Gadget E,48032.63,157,19160.98,Compact device for consumer electronics,North America,2024-07-24
+Widget B,88590.28,77,21327.68,Cost-effective solution for small businesses,Europe,2024-02-13
+Gadget F,84528.16,117,18452.93,Reliable widget for everyday applications,North America,2024-09-04
+Widget G,86602.58,120,17772.57,Premium gadget with advanced features,North America,2024-08-05
+Gadget F,84220.61,109,32446.76,Reliable widget for everyday applications,Europe,2024-01-14
+Widget F,41950.71,200,8676.49,Premium gadget with advanced features,Asia,2024-07-29
+Widget C,55543.89,53,20205.06,High-quality widget for industrial use,Europe,2024-04-27
+Widget D,79892.15,82,25909.84,Eco-friendly product for sustainable markets,Europe,2024-12-19
+Widget E,15088.47,199,5406.32,Eco-friendly product for sustainable markets,Asia,2024-04-05
+Gadget C,66363.0,113,24083.55,Eco-friendly product for sustainable markets,Australia,2024-12-24
+Widget I,98579.26,74,29117.65,Cost-effective solution for small businesses,Europe,2024-05-20
+Gadget J,32918.76,119,8155.96,Innovative gadget with AI integration,South America,2024-04-30
+Gadget E,47130.38,139,16280.37,Durable widget for heavy machinery,Australia,2024-03-02
+Gadget H,24513.57,70,8498.05,Durable widget for heavy machinery,North America,2024-10-13
+Gadget D,59173.99,62,18195.98,Durable widget for heavy machinery,Europe,2024-12-15
+Gadget E,70269.8,68,15472.96,Premium gadget with advanced features,Asia,2024-07-12
+Gadget D,74769.35,165,22470.29,Reliable widget for everyday applications,Europe,2024-09-09
+Gadget B,12970.59,199,3586.79,Portable gadget with long battery life,North America,2024-10-24
+Gadget B,25200.04,55,7447.67,Compact device for consumer electronics,Europe,2024-02-21
+Widget A,35049.22,80,10926.42,High-quality widget for industrial use,Europe,2024-09-21
+Widget J,20703.49,92,8124.94,High-quality widget for industrial use,Australia,2024-02-01
+Widget D,62366.58,60,20760.27,High-quality widget for industrial use,North America,2024-10-09
+Gadget I,45274.68,113,11798.14,Portable gadget with long battery life,Europe,2024-12-26
+Widget I,71558.34,132,20387.97,Premium gadget with advanced features,North America,2024-07-16
+Gadget B,19962.62,115,5378.59,Eco-friendly product for sustainable markets,Australia,2024-12-16
+Widget G,27032.63,95,8062.19,Reliable widget for everyday applications,South America,2024-05-07
+Widget D,97659.44,126,25227.84,Compact device for consumer electronics,Asia,2024-12-20
+Gadget H,49484.87,65,15821.92,Reliable widget for everyday applications,South America,2024-11-24
+Gadget G,55937.49,176,18889.51,Eco-friendly product for sustainable markets,Europe,2024-01-27
+Gadget C,88142.48,79,32077.55,Reliable widget for everyday applications,North America,2024-07-13
+Gadget J,31214.44,80,8735.55,Premium gadget with advanced features,Asia,2024-01-29
+Widget B,66394.17,196,24916.07,High-performance device for enterprise use,Australia,2024-08-26
+Gadget E,12207.1,93,3583.91,Durable widget for heavy machinery,Europe,2024-08-16
+Widget G,44589.78,82,11656.83,Durable widget for heavy machinery,Europe,2024-08-08
+Widget G,14728.08,78,5577.91,Cost-effective solution for small businesses,Asia,2024-01-24
+Widget H,74006.71,77,20012.39,Portable gadget with long battery life,North America,2024-11-24
+Gadget C,12691.54,180,3466.19,Portable gadget with long battery life,South America,2024-08-22
+Gadget I,19063.86,183,5347.17,Premium gadget with advanced features,Europe,2024-11-22
+Widget C,80052.06,59,20524.49,Cost-effective solution for small businesses,Asia,2024-10-24
+Gadget I,21930.87,108,6218.75,Durable widget for heavy machinery,Europe,2024-02-08
+Gadget C,11975.01,97,4708.13,Reliable widget for everyday applications,Asia,2024-08-12
+Gadget A,70309.88,109,18252.1,Premium gadget with advanced features,Europe,2024-11-13
+Gadget C,87461.09,94,24233.19,Premium gadget with advanced features,South America,2024-09-27
+Gadget G,87414.66,124,25409.69,Cost-effective solution for small businesses,Asia,2024-03-11
+Widget E,52183.94,86,15293.91,Cost-effective solution for small businesses,Asia,2024-07-24
+Widget H,87412.32,114,32415.93,Compact device for consumer electronics,Australia,2024-01-02
+Widget I,98883.41,61,34182.65,Reliable widget for everyday applications,North America,2024-04-04
+Gadget E,40143.23,172,10139.59,Durable widget for heavy machinery,South America,2024-09-04
+Widget G,61845.36,70,20723.11,Eco-friendly product for sustainable markets,Europe,2024-06-17
+Gadget C,40897.94,86,15991.08,Premium gadget with advanced features,Australia,2024-04-08
+Widget C,94363.18,196,21426.37,High-performance device for enterprise use,Asia,2024-10-03
+Widget G,56327.07,95,22393.62,High-quality widget for industrial use,Australia,2024-10-09
+Widget C,14126.37,77,3554.88,Portable gadget with long battery life,Asia,2024-09-27
+Widget F,45101.19,150,12269.4,Cost-effective solution for small businesses,Europe,2024-10-05
+Widget A,16571.58,167,5957.15,Portable gadget with long battery life,Asia,2024-03-18
+Widget G,28175.38,64,11152.83,Premium gadget with advanced features,Asia,2024-02-15
+Widget C,84880.85,137,22712.56,Cost-effective solution for small businesses,South America,2024-12-18
+Gadget E,88542.39,106,22177.15,Portable gadget with long battery life,Australia,2024-05-01
+Widget D,36214.33,170,10701.0,Durable widget for heavy machinery,North America,2024-05-02
+Gadget D,93436.55,198,19218.36,Cost-effective solution for small businesses,Europe,2024-10-06
+Gadget F,69620.61,79,27372.72,Innovative gadget with AI integration,North America,2024-07-29
+Widget A,47116.65,120,12625.74,Durable widget for heavy machinery,Australia,2024-05-21
+Widget C,84126.6,176,19257.29,Durable widget for heavy machinery,Europe,2024-11-17
+Gadget G,84341.29,66,25251.93,Cost-effective solution for small businesses,Europe,2024-01-10
+Widget H,97532.09,92,21597.05,Compact device for consumer electronics,South America,2024-03-22
+Widget B,91357.78,112,19121.93,Cost-effective solution for small businesses,Asia,2024-03-13
+Widget D,10687.88,144,4108.7,Eco-friendly product for sustainable markets,Europe,2024-11-29
+Widget F,30638.66,88,9698.85,Eco-friendly product for sustainable markets,Europe,2024-05-24
+Gadget E,83074.71,51,31197.8,Cost-effective solution for small businesses,Asia,2024-12-18
+Widget E,11315.05,109,2922.3,Compact device for consumer electronics,North America,2024-03-07
+Widget C,25770.31,95,6746.21,High-quality widget for industrial use,North America,2024-09-11
+Gadget I,21645.47,120,7282.22,Premium gadget with advanced features,North America,2024-02-11
+Gadget F,17673.35,120,4376.04,Eco-friendly product for sustainable markets,Europe,2024-08-10
+Gadget E,65969.8,167,13935.53,Premium gadget with advanced features,South America,2024-09-18
+Widget F,61598.88,102,12708.23,Eco-friendly product for sustainable markets,North America,2024-02-25
+Widget F,22914.48,83,6312.62,High-performance device for enterprise use,South America,2024-04-21
+Widget B,43742.18,170,12703.84,High-quality widget for industrial use,North America,2024-09-09
+Widget J,90217.63,80,29356.79,High-performance device for enterprise use,Asia,2024-07-16
+Gadget H,36434.26,61,9178.27,Reliable widget for everyday applications,Australia,2024-07-19
+Widget C,55089.03,75,21044.88,Innovative gadget with AI integration,Australia,2024-01-03
+Widget C,63411.35,164,19859.59,Portable gadget with long battery life,Europe,2024-12-11
+Gadget I,24269.38,115,7464.11,Portable gadget with long battery life,South America,2024-06-02
+Widget H,67955.1,87,22737.51,Durable widget for heavy machinery,South America,2024-06-26
+Gadget I,19230.34,180,4516.13,Durable widget for heavy machinery,Australia,2024-09-12
+Gadget J,60251.41,81,13675.94,High-quality widget for industrial use,Asia,2024-08-21
+Widget E,39839.03,144,9350.97,Cost-effective solution for small businesses,South America,2024-07-31
+Gadget G,72324.54,132,24700.64,Compact device for consumer electronics,Europe,2024-04-30
+Widget C,86693.38,149,23124.63,Compact device for consumer electronics,Europe,2024-10-31
+Widget B,61999.05,85,13052.21,Reliable widget for everyday applications,Europe,2024-04-10
+Gadget F,15673.41,123,3684.63,Compact device for consumer electronics,Europe,2024-03-29
+Gadget A,70077.97,90,14306.19,Cost-effective solution for small businesses,South America,2024-11-26
+Gadget I,70126.9,128,16193.01,Innovative gadget with AI integration,North America,2024-01-12
+Widget F,56686.96,183,17354.34,Eco-friendly product for sustainable markets,South America,2024-01-31
+Gadget J,80731.79,175,27212.17,Eco-friendly product for sustainable markets,Asia,2024-05-15
+Widget B,59390.15,190,23675.36,Premium gadget with advanced features,North America,2024-02-20
+Widget F,99044.62,115,38679.64,Eco-friendly product for sustainable markets,Europe,2024-06-20
+Widget J,88376.47,166,33348.91,Eco-friendly product for sustainable markets,Asia,2024-05-27
+Widget A,13648.5,71,3654.84,Eco-friendly product for sustainable markets,South America,2024-03-20
+Gadget F,56120.03,92,19812.25,Innovative gadget with AI integration,Asia,2024-08-08
+Widget D,98703.62,192,28499.68,Compact device for consumer electronics,North America,2024-09-11
+Widget E,86123.71,154,21265.95,Reliable widget for everyday applications,North America,2024-06-20
+Widget C,23658.41,76,8778.89,Reliable widget for everyday applications,Asia,2024-05-10
+Widget C,76458.28,152,28194.38,Compact device for consumer electronics,Europe,2024-09-07
+Widget B,20387.38,153,4875.54,Premium gadget with advanced features,Europe,2024-03-30
+Gadget F,83417.99,63,31588.3,Durable widget for heavy machinery,North America,2024-07-24
+Widget G,42326.65,83,10279.14,High-performance device for enterprise use,Europe,2024-02-23
+Widget B,90964.41,188,19395.27,Portable gadget with long battery life,Europe,2024-12-29
+Gadget B,39380.95,129,12020.88,Portable gadget with long battery life,Europe,2024-02-02
+Widget J,28949.06,196,10778.35,Eco-friendly product for sustainable markets,Europe,2024-09-11
+Widget F,33841.88,194,10436.72,Portable gadget with long battery life,Australia,2024-01-09
+Widget I,40264.91,80,12542.99,High-quality widget for industrial use,North America,2024-12-18
+Widget C,57091.93,107,20697.35,Innovative gadget with AI integration,Australia,2024-01-13
+Widget D,87600.46,143,23770.39,Compact device for consumer electronics,South America,2024-09-06
+Widget B,16267.54,154,5680.74,Innovative gadget with AI integration,Australia,2024-01-25
+Gadget J,94295.26,196,24474.79,Portable gadget with long battery life,North America,2024-08-03
+Gadget D,47693.59,193,12230.7,Compact device for consumer electronics,North America,2024-09-29
+Gadget D,56513.24,139,11550.22,Innovative gadget with AI integration,Europe,2024-03-04
+Gadget D,21343.12,117,4294.26,Portable gadget with long battery life,Australia,2024-07-19
+Widget H,63836.8,121,13589.39,High-quality widget for industrial use,North America,2024-04-16
+Gadget J,26209.23,97,10448.06,Durable widget for heavy machinery,Europe,2024-09-21
+Widget J,96635.75,200,26554.13,Reliable widget for everyday applications,South America,2024-11-24
+Widget C,61392.33,183,22102.39,Eco-friendly product for sustainable markets,Australia,2024-07-10
+Widget I,46460.05,129,14806.03,High-performance device for enterprise use,North America,2024-03-29
+Widget H,29939.04,83,9952.66,High-performance device for enterprise use,North America,2024-11-27
+Gadget I,13481.3,172,2798.31,Portable gadget with long battery life,Europe,2024-05-02
+Widget F,86041.21,192,17528.8,High-performance device for enterprise use,Europe,2024-07-23
+Widget C,89326.92,178,32281.33,Portable gadget with long battery life,Asia,2024-05-08
+Gadget G,76261.97,196,23768.51,Cost-effective solution for small businesses,North America,2024-08-11
+Gadget D,61087.29,60,13530.02,High-quality widget for industrial use,North America,2024-06-15
+Widget D,33605.33,140,10111.93,Portable gadget with long battery life,South America,2024-03-25
+Widget G,95268.52,73,37472.68,Innovative gadget with AI integration,North America,2024-10-15
+Widget C,88640.33,181,29424.44,Portable gadget with long battery life,South America,2024-02-07
+Widget B,82179.98,88,27188.59,Portable gadget with long battery life,North America,2024-01-07
+Gadget E,66106.27,122,18621.21,Reliable widget for everyday applications,Australia,2024-08-29
+Gadget H,99166.06,89,35974.78,Portable gadget with long battery life,Asia,2024-08-06
+Widget C,78046.99,55,23987.25,Eco-friendly product for sustainable markets,South America,2024-06-23
+Widget F,86290.33,148,27804.59,Portable gadget with long battery life,Europe,2024-10-01
+Widget I,82762.66,177,27603.77,Eco-friendly product for sustainable markets,Australia,2024-09-26
+Widget A,81764.94,118,31637.87,High-quality widget for industrial use,North America,2024-07-22
+Gadget I,19376.81,161,5703.88,High-quality widget for industrial use,Australia,2024-06-26
+Gadget H,29434.78,162,10065.25,High-quality widget for industrial use,North America,2024-07-21
+Gadget E,58060.07,54,19853.15,Portable gadget with long battery life,Australia,2024-06-20
+Widget A,50799.08,151,15088.41,Compact device for consumer electronics,Asia,2024-11-27
+Gadget A,92320.98,113,27358.84,Cost-effective solution for small businesses,Asia,2024-06-11
+Widget F,17835.73,130,6148.4,High-performance device for enterprise use,Europe,2024-08-22
+Gadget D,73952.57,57,22677.71,Portable gadget with long battery life,Australia,2024-11-24
+Gadget I,40944.68,151,12751.32,Reliable widget for everyday applications,South America,2024-12-11
+Gadget J,68828.22,127,17853.27,Innovative gadget with AI integration,Europe,2024-07-29
+Widget F,68306.05,183,21323.04,Premium gadget with advanced features,North America,2024-05-12
+Gadget F,97499.86,145,23675.41,High-quality widget for industrial use,South America,2024-01-02
+Gadget C,63895.14,105,24042.67,High-performance device for enterprise use,Europe,2024-06-24
+Gadget B,93073.39,162,28788.94,Eco-friendly product for sustainable markets,Australia,2024-10-11

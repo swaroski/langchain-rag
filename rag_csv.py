@@ -10,25 +10,35 @@ from langchain_community.vectorstores import Chroma
 from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
+from langchain_community.document_loaders import DataFrameLoader 
 
 # Securely load your OpenAI API key
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-# Load your CSV data
-csv_path = "path/to/sample_data.csv"  # update this
-df = pd.read_csv(csv_path)
+# Load CSV Data path--------------
 
-# Convert rows to LangChain Documents
-documents = []
-for _, row in df.iterrows():
-    content = ", ".join([f"{key}: {value}" for key, value in row.items()])
-    metadata = {"row_index": row.name}
-    documents.append(Document(page_content=content, metadata=metadata))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__)) 
+csv_path = os.getenv("CSV_PATH", os.path.join(BASE_DIR, "data", "data.csv")) 
+
+# Validate CSV file existence 
+if not os.path.exists(csv_path):
+    raise FileNotFoundError(f"CSV file not found at {csv_path}") 
+
+# Load CSV into dataframe 
+df  = pd.read_csv(csv_path) 
+
+# Combine all columns into one one for embedding 
+df["combined"] = df.astype(str).agg(" | ".join, axis=1) 
+
+
+# Load documents using Dataframeloader 
+loader = DataFrameLoader(df, page_content_column="combined") 
+docs = loader.load() 
 
 # Split large text rows (not always needed for CSVs, but adds flexibility)
 splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-splits = splitter.split_documents(documents)
+splits = splitter.split_documents(docs)
 
 # Embed and store vectors
 embeddings = OpenAIEmbeddings()
@@ -75,7 +85,7 @@ def query_rag(query: str):
     response = chain.invoke(query)
     return {
         "answer": response,
-        "source_documents": retriever.get_relevant_documents(query)
+        "source_documents": retriever.invoke(query)
     }
 
 # Q&A loop
