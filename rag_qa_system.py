@@ -12,6 +12,7 @@ from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTempla
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.runnables.history import RunnableWithMessageHistory
+from langchain_community.document_loaders import DataFrameLoader 
 
 # Load environment variables
 load_dotenv()
@@ -31,7 +32,9 @@ df = pd.read_csv(csv_path)
 # Combine all columns into one for embedding  
 df["combined"] = df.astype(str).agg
 
-
+# Load documents using Dataframeloader 
+loader = DataFrameLoader(df, page_content_column="combined") 
+docs = loader.load() 
 
 # Optional: split long rows
 splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
