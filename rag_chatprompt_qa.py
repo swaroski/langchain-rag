@@ -16,6 +16,31 @@ os.environ["LANGCHAIN_TRACING_V2"] = "false"
 os.environ["LANGCHAIN_ENDPOINT"] = ""
 os.environ["LANGCHAIN_API_KEY"] = ""
 
+
+# --- Load sales data ---
+df = pd.read_csv("sales_data.csv")
+
+# --- Load and preprocess data ---
+#df = pd.read_json("sales_data.json")
+
+# Read a text file with space as the delimiter
+#df = pd.read_csv('file.txt', sep=' ')
+
+# Read a text file with tab as the delimiter
+#df = pd.read_table('file.txt', sep='\t')
+
+# --- Format as structured documents ---
+df["combined"] = df.fillna("").astype(str).apply(lambda row: "\n".join(f"{k}: {v}" for k, v in row.items()), axis=1)
+df["row_id"] = df.index
+loader = DataFrameLoader(df[["combined", "row_id"]], page_content_column="combined")
+docs = loader.load()
+
+# --- Embedding + FAISS vector store ---
+embedding_model = OpenAIEmbeddings()
+vectorstore = FAISS.from_documents(docs, embedding_model)
+retriever = vectorstore.as_retriever(search_kwargs={"k": 5})  # Increased k for better retrieval
+
+
 # --- Prompt Factory ---
 def get_prompt(mode="prompt"):
     if mode == "zero_shot_prompt":
@@ -217,19 +242,6 @@ Output (JSON):
 """)
 ])
 
-# --- Load sales data ---
-df = pd.read_csv("sales_data.csv")
-
-# --- Format as structured documents ---
-df["combined"] = df.fillna("").astype(str).apply(lambda row: "\n".join(f"{k}: {v}" for k, v in row.items()), axis=1)
-df["row_id"] = df.index
-loader = DataFrameLoader(df[["combined", "row_id"]], page_content_column="combined")
-docs = loader.load()
-
-# --- Embedding + FAISS vector store ---
-embedding_model = OpenAIEmbeddings()
-vectorstore = FAISS.from_documents(docs, embedding_model)
-retriever = vectorstore.as_retriever(search_kwargs={"k": 5})  # Increased k for better retrieval
 
 # --- Prompt template ---
 prompt = get_prompt(mode="zero_shot_prompt")
