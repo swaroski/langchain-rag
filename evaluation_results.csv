@@ -1,27 +1,22 @@
 Question,Ground Truth,GPT Answer,Correct,Reasoning
-What is the total revenue in North America?,110000,"Total Revenue: $160,742.53",False,"Failed to parse evaluation response: ```json
-{
-  ""is_correct"": false,
-  ""reasoning"": ""The predicted answer '$160,742.53' does not match the ground truth 110000 numerically.""
-}
-```"
-Which product had the highest sales?,Widget B,Widget A,False,"Failed to parse evaluation response: ```json
+What is the total revenue in North America?,110000,"The total revenue in North America is 160,742.53.",False,"The predicted answer '160,742.53' does not match the ground truth '110000' numerically."
+Which product had the highest sales?,Widget B,Widget A had the highest sales with 137 units.,False,"Failed to parse evaluation response: ```json
 {
   ""is_correct"": false,
   ""reasoning"": ""The predicted product 'Widget A' does not match the ground truth 'Widget B'.""
 }
 ```"
-What was the profit of Gadget C?,9000,"Total Profit: $45,727.41",False,"Failed to parse evaluation response: ```json
+What was the profit of Gadget C?,9000,"The profit of Gadget C was 45,727.41.",False,"Failed to parse evaluation response: ```json
 {
   ""is_correct"": false,
-  ""reasoning"": ""The predicted profit '$45,727.41' does not match the ground truth 9000 numerically.""
+  ""reasoning"": ""The predicted profit '45727.41' does not match the ground truth '9000' numerically.""
 }
 ```"
-What is the revenue on 2024-09-17?,45000,Insufficient data,False,The predicted answer 'Insufficient data' does not match the ground truth 45000 numerically.
-Which product was sold in Asia?,Gadget C,Gadget A,False,"Failed to parse evaluation response: ```json
+What is the revenue on 2024-09-17?,45000,Insufficient data.,False,The predicted answer 'Insufficient data' does not match the ground truth 45000 numerically.
+Which product was sold in Asia?,Gadget C,Gadget A was sold in Asia.,False,"Failed to parse evaluation response: ```json
 {
   ""is_correct"": false,
   ""reasoning"": ""The predicted product 'Gadget A' does not match the ground truth 'Gadget C'.""
 }
 ```"
-What was the revenue of Widget Z?,Insufficient data,Insufficient data,True,Both predicted and ground truth are 'Insufficient data'.
+What was the revenue of Widget Z?,Insufficient data,Insufficient data.,True,Both predicted and ground truth are 'Insufficient data'.
